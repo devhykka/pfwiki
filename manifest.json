@@ -3,11 +3,8 @@
   "root": {
     "children": [
       "/controllers",
-      "/controllers",
       "/demo",
       "/general",
-      "/general",
-      "/pilots",
       "/pilots",
       "/welcome"
     ]
@@ -21,6 +18,7 @@
     },
     "/controllers/egkk": {
       "children": [
+        "/controllers/egkk/briefing",
         "/controllers/egkk/clearance delivery",
         "/controllers/egkk/software",
         "/controllers/egkk/sops"
@@ -28,6 +26,7 @@
     },
     "/controllers/mdpc": {
       "children": [
+        "/controllers/mdpc/briefing",
         "/controllers/mdpc/clearance delivery",
         "/controllers/mdpc/software",
         "/controllers/mdpc/sops"
@@ -40,12 +39,20 @@
       ]
     },
     "/general/ratings": {
-      "dataFile": "general/ratings/.data.md",
-      "children": []
+      "dataFile": "General/Ratings/.data.md",
+      "children": [
+        "/general/ratings/[c1]-trainee-controller",
+        "/general/ratings/[c2]-tower-controller",
+        "/general/ratings/[c3]-approach-controller",
+        "/general/ratings/[sc]-senior-controller"
+      ]
     },
     "/general/roles": {
-      "dataFile": "general/roles/.data.md",
-      "children": []
+      "dataFile": "General/Roles/.data.md",
+      "children": [
+        "/general/roles/leadership",
+        "/general/roles/operations"
+      ]
     },
     "/pilots": {
       "children": [
@@ -71,25 +78,25 @@
       "file": "Controllers/EGKK/Briefing.md"
     },
     "/controllers/egkk/clearance delivery": {
-      "file": "controllers/EGKK/Clearance Delivery.md"
+      "file": "Controllers/EGKK/Clearance Delivery.md"
     },
     "/controllers/egkk/software": {
-      "file": "controllers/EGKK/Software.md"
+      "file": "Controllers/EGKK/Software.md"
     },
     "/controllers/egkk/sops": {
-      "file": "controllers/EGKK/SOPs.md"
+      "file": "Controllers/EGKK/SOPs.md"
     },
     "/controllers/mdpc/briefing": {
       "file": "Controllers/MDPC/Briefing.md"
     },
     "/controllers/mdpc/clearance delivery": {
-      "file": "controllers/MDPC/Clearance Delivery.md"
+      "file": "Controllers/MDPC/Clearance Delivery.md"
     },
     "/controllers/mdpc/software": {
-      "file": "controllers/MDPC/Software.md"
+      "file": "Controllers/MDPC/Software.md"
     },
     "/controllers/mdpc/sops": {
-      "file": "controllers/MDPC/SOPs.md"
+      "file": "Controllers/MDPC/SOPs.md"
     },
     "/demo": {
       "file": "Demo.md"
@@ -113,16 +120,16 @@
       "file": "General/Roles/Operations.md"
     },
     "/pilots/egkk/briefing": {
-      "file": "pilots/EGKK/Briefing.md"
+      "file": "Pilots/EGKK/Briefing.md"
     },
     "/pilots/egkk/sops": {
-      "file": "pilots/EGKK/SOPs.md"
+      "file": "Pilots/EGKK/SOPs.md"
     },
     "/pilots/mdpc/briefing": {
-      "file": "pilots/MDPC/Briefing.md"
+      "file": "Pilots/MDPC/Briefing.md"
     },
     "/pilots/mdpc/sops": {
-      "file": "pilots/MDPC/SOPs.md"
+      "file": "Pilots/MDPC/SOPs.md"
     },
     "/welcome": {
       "file": "Welcome.md"
