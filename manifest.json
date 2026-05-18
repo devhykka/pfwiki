@@ -3,8 +3,11 @@
   "root": {
     "children": [
       "/controllers",
+      "/controllers",
       "/demo",
       "/general",
+      "/general",
+      "/pilots",
       "/pilots",
       "/welcome"
     ]
@@ -18,7 +21,6 @@
     },
     "/controllers/egkk": {
       "children": [
-        "/controllers/egkk/briefing",
         "/controllers/egkk/clearance delivery",
         "/controllers/egkk/software",
         "/controllers/egkk/sops"
@@ -26,7 +28,6 @@
     },
     "/controllers/mdpc": {
       "children": [
-        "/controllers/mdpc/briefing",
         "/controllers/mdpc/clearance delivery",
         "/controllers/mdpc/software",
         "/controllers/mdpc/sops"
@@ -40,19 +41,11 @@
     },
     "/general/ratings": {
       "dataFile": "general/ratings/.data.md",
-      "children": [
-        "/general/ratings/[c1]-trainee-controller",
-        "/general/ratings/[c2]-tower-controller",
-        "/general/ratings/[c3]-approach-controller",
-        "/general/ratings/[sc]-senior-controller"
-      ]
+      "children": []
     },
     "/general/roles": {
       "dataFile": "general/roles/.data.md",
-      "children": [
-        "/general/roles/leadership",
-        "/general/roles/operations"
-      ]
+      "children": []
     },
     "/pilots": {
       "children": [
@@ -75,7 +68,7 @@
   },
   "pages": {
     "/controllers/egkk/briefing": {
-      "file": "controllers/EGKK/briefing.md"
+      "file": "Controllers/EGKK/Briefing.md"
     },
     "/controllers/egkk/clearance delivery": {
       "file": "controllers/EGKK/Clearance Delivery.md"
@@ -87,7 +80,7 @@
       "file": "controllers/EGKK/SOPs.md"
     },
     "/controllers/mdpc/briefing": {
-      "file": "controllers/MDPC/briefing.md"
+      "file": "Controllers/MDPC/Briefing.md"
     },
     "/controllers/mdpc/clearance delivery": {
       "file": "controllers/MDPC/Clearance Delivery.md"
@@ -102,22 +95,22 @@
       "file": "Demo.md"
     },
     "/general/ratings/[c1]-trainee-controller": {
-      "file": "general/ratings/[c1]-trainee-controller.md"
+      "file": "General/Ratings/[C1]-Trainee-Controller.md"
     },
     "/general/ratings/[c2]-tower-controller": {
-      "file": "general/ratings/[c2]-tower-controller.md"
+      "file": "General/Ratings/[C2]-Tower-Controller.md"
     },
     "/general/ratings/[c3]-approach-controller": {
-      "file": "general/ratings/[c3]-approach-controller.md"
+      "file": "General/Ratings/[C3]-Approach-Controller.md"
     },
     "/general/ratings/[sc]-senior-controller": {
-      "file": "general/ratings/[sc]-senior-controller.md"
+      "file": "General/Ratings/[SC]-Senior-Controller.md"
     },
     "/general/roles/leadership": {
-      "file": "general/roles/leadership.md"
+      "file": "General/Roles/Leadership.md"
     },
     "/general/roles/operations": {
-      "file": "general/roles/operations.md"
+      "file": "General/Roles/Operations.md"
     },
     "/pilots/egkk/briefing": {
       "file": "pilots/EGKK/Briefing.md"
@@ -132,7 +125,7 @@
       "file": "pilots/MDPC/SOPs.md"
     },
     "/welcome": {
-      "file": "welcome.md"
+      "file": "Welcome.md"
     }
   }
 }
