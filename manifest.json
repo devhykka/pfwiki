@@ -47,6 +47,7 @@
       ]
     },
     "/general/roles": {
+      "dataFile": "general/roles/.data.md",
       "children": [
         "/general/roles/leadership",
         "/general/roles/operations"
@@ -73,7 +74,7 @@
   },
   "pages": {
     "/controllers/egkk/briefing": {
-      "file": "controllers/EGKK/Briefing.md"
+      "file": "controllers/EGKK/briefing.md"
     },
     "/controllers/egkk/clearance delivery": {
       "file": "controllers/EGKK/Clearance Delivery.md"
@@ -85,7 +86,7 @@
       "file": "controllers/EGKK/SOPs.md"
     },
     "/controllers/mdpc/briefing": {
-      "file": "controllers/MDPC/Briefing.md"
+      "file": "controllers/MDPC/briefing.md"
     },
     "/controllers/mdpc/clearance delivery": {
       "file": "controllers/MDPC/Clearance Delivery.md"
