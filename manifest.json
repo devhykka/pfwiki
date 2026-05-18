@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "root": {
+    "children": [
+      "/controllers",
+      "/general",
+      "/pilots",
+      "/welcome"
+    ]
+  },
+  "folders": {
+    "/controllers": {
+      "children": [
+        "/controllers/egkk",
+        "/controllers/mdpc"
+      ]
+    },
+    "/controllers/egkk": {
+      "children": [
+        "/controllers/egkk/briefing",
+        "/controllers/egkk/clearance delivery",
+        "/controllers/egkk/software",
+        "/controllers/egkk/sops"
+      ]
+    },
+    "/controllers/mdpc": {
+      "children": [
+        "/controllers/mdpc/briefing",
+        "/controllers/mdpc/clearance delivery",
+        "/controllers/mdpc/software",
+        "/controllers/mdpc/sops"
+      ]
+    },
+    "/general": {
+      "children": [
+        "/general/ratings",
+        "/general/roles"
+      ]
+    },
+    "/general/ratings": {
+      "dataFile": "general/ratings/.data.md",
+      "children": [
+        "/general/ratings/[c1]-trainee-controller",
+        "/general/ratings/[c2]-tower-controller",
+        "/general/ratings/[c3]-approach-controller",
+        "/general/ratings/[sc]-senior-controller"
+      ]
+    },
+    "/general/roles": {
+      "children": [
+        "/general/roles/leadership",
+        "/general/roles/operations"
+      ]
+    },
+    "/pilots": {
+      "children": [
+        "/pilots/egkk",
+        "/pilots/mdpc"
+      ]
+    },
+    "/pilots/egkk": {
+      "children": [
+        "/pilots/egkk/briefing",
+        "/pilots/egkk/sops"
+      ]
+    },
+    "/pilots/mdpc": {
+      "children": [
+        "/pilots/mdpc/briefing",
+        "/pilots/mdpc/sops"
+      ]
+    }
+  },
+  "pages": {
+    "/welcome": {
+      "file": "welcome.md"
+    },
+    "/controllers/egkk/briefing": {
+      "file": "controllers/EGKK/briefing.md"
+    },
+    "/controllers/egkk/clearance delivery": {
+      "file": "controllers/EGKK/Clearance Delivery.md"
+    },
+    "/controllers/egkk/software": {
+      "file": "controllers/EGKK/Software.md"
+    },
+    "/controllers/egkk/sops": {
+      "file": "controllers/EGKK/SOPs.md"
+    },
+    "/controllers/mdpc/briefing": {
+      "file": "controllers/MDPC/briefing.md"
+    },
+    "/controllers/mdpc/clearance delivery": {
+      "file": "controllers/MDPC/Clearance Delivery.md"
+    },
+    "/controllers/mdpc/software": {
+      "file": "controllers/MDPC/Software.md"
+    },
+    "/controllers/mdpc/sops": {
+      "file": "controllers/MDPC/SOPs.md"
+    },
+    "/general/ratings/[c1]-trainee-controller": {
+      "file": "general/ratings/[c1]-trainee-controller.md"
+    },
+    "/general/ratings/[c2]-tower-controller": {
+      "file": "general/ratings/[c2]-tower-controller.md"
+    },
+    "/general/ratings/[c3]-approach-controller": {
+      "file": "general/ratings/[c3]-approach-controller.md"
+    },
+    "/general/ratings/[sc]-senior-controller": {
+      "file": "general/ratings/[sc]-senior-controller.md"
+    },
+    "/general/roles/leadership": {
+      "file": "general/roles/leadership.md"
+    },
+    "/general/roles/operations": {
+      "file": "general/roles/operations.md"
+    },
+    "/pilots/egkk/briefing": {
+      "file": "pilots/EGKK/Briefing.md"
+    },
+    "/pilots/egkk/sops": {
+      "file": "pilots/EGKK/SOPs.md"
+    },
+    "/pilots/mdpc/briefing": {
+      "file": "pilots/MDPC/Briefing.md"
+    },
+    "/pilots/mdpc/sops": {
+      "file": "pilots/MDPC/SOPs.md"
+    }
+  }
+}
