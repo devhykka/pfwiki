@@ -15,6 +15,8 @@ This is normal body text.
 
 ![MDPC Diagram](/images/hero.png)
 
+[Hyperlink](https://discord.gg/pfatc)
+
 - Bullet point 1
 - Bullet point 2
 - Bullet point 3
