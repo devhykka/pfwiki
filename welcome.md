@@ -1,25 +1,38 @@
-# Heading 1
+# PFWiki
 
-## Heading 2
+PFWiki is the internal knowledge base for PFATC documentation. It is intended to give controllers, pilots, and staff one place to find current procedures, reference material, and role guidance.
 
-### Heading 3
 
-This is normal body text.
+## Start Here
 
----
+Choose the section that matches what you need:
 
-| Chart | Purpose   | Required |
-| ----- | --------- | -------- |
-| SID   | Departure | Yes      |
-| STAR  | Arrival   | Yes      |
+- **Controllers**: Airport-specific controller briefings, software notes, SOPs, and delivery procedures.
+- **Pilots**: Airport-specific pilot briefings and SOPs.
+- **General**: Ratings, role descriptions, and broader organizational guidance.
 
-![MDPC Diagram](/images/hero.png)
 
-- Bullet point 1
-- Bullet point 2
+## Contributing
 
-!!! warning Title
-    Content
+When updating this wiki:
 
-!!! info Title
-    Content
+1. Edit or add the relevant Markdown page.
+2. Keep naming and folder placement consistent with the existing structure.
+3. Open a pull request for review.
+
+`manifest.json` is generated automatically on pull requests, so the navigation structure stays aligned with the repository contents.
+
+## Scope
+
+This wiki should contain:
+
+- Operational procedures
+- Airport-specific reference material
+- Training and rating information
+- Staff role guidance
+
+This wiki should avoid:
+
+- Temporary notices better suited to Discord or announcements
+- Duplicate content that already exists elsewhere in the repository
+- Unreviewed procedural changes
