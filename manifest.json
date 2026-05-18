@@ -72,11 +72,8 @@
     }
   },
   "pages": {
-    "/welcome": {
-      "file": "welcome.md"
-    },
     "/controllers/egkk/briefing": {
-      "file": "controllers/EGKK/briefing.md"
+      "file": "controllers/EGKK/Briefing.md"
     },
     "/controllers/egkk/clearance delivery": {
       "file": "controllers/EGKK/Clearance Delivery.md"
@@ -88,7 +85,7 @@
       "file": "controllers/EGKK/SOPs.md"
     },
     "/controllers/mdpc/briefing": {
-      "file": "controllers/MDPC/briefing.md"
+      "file": "controllers/MDPC/Briefing.md"
     },
     "/controllers/mdpc/clearance delivery": {
       "file": "controllers/MDPC/Clearance Delivery.md"
@@ -128,6 +125,9 @@
     },
     "/pilots/mdpc/sops": {
       "file": "pilots/MDPC/SOPs.md"
+    },
+    "/welcome": {
+      "file": "welcome.md"
     }
   }
 }

@@ -1,0 +1,60 @@
+name: Build Manifest
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - ready_for_review
+
+permissions:
+  contents: write
+
+jobs:
+  build-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out pull request branch
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Rebuild manifest
+        run: node scripts/build-manifest.mjs
+
+      - name: Detect manifest changes
+        id: manifest_changes
+        shell: bash
+        run: |
+          if git diff --quiet -- manifest.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit manifest update
+        if: steps.manifest_changes.outputs.changed == 'true' && github.event.pull_request.head.repo.full_name == github.repository
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git commit -m "chore: rebuild manifest"
+          git push origin "HEAD:${{ github.event.pull_request.head.ref }}"
+
+      - name: Block stale fork pull requests
+        if: steps.manifest_changes.outputs.changed == 'true' && github.event.pull_request.head.repo.full_name != github.repository
+        shell: bash
+        run: |
+          echo "::error::manifest.json is out of date. This workflow cannot push changes back to forked pull requests."
+          echo "::error::Run the manifest builder in your branch or ask a maintainer to update the PR branch."
+          exit 1
