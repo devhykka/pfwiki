@@ -17,6 +17,19 @@ This is normal body text.
 
 - Bullet point 1
 - Bullet point 2
+- Bullet point 3
+
+1.) Numbered point 1
+2.) Numbered point 2
+3.) Numbered point 3
+
+**Bold**
+
+__Underline__
+
+*Italic*
+
+_Italic_
 
 !!! warning Title
     Content
