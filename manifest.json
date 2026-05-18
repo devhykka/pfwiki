@@ -3,6 +3,7 @@
   "root": {
     "children": [
       "/controllers",
+      "/demo",
       "/general",
       "/pilots",
       "/welcome"
@@ -96,6 +97,9 @@
     },
     "/controllers/mdpc/sops": {
       "file": "controllers/MDPC/SOPs.md"
+    },
+    "/demo": {
+      "file": "Demo.md"
     },
     "/general/ratings/[c1]-trainee-controller": {
       "file": "general/ratings/[c1]-trainee-controller.md"
