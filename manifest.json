@@ -2,10 +2,12 @@
   "version": 1,
   "root": {
     "children": [
+      "/about",
       "/controllers",
       "/demo",
       "/general",
       "/pilots",
+      "/policies",
       "/welcome"
     ]
   },
@@ -19,7 +21,7 @@
     "/controllers/egkk": {
       "children": [
         "/controllers/egkk/briefing",
-        "/controllers/egkk/clearance delivery",
+        "/controllers/egkk/clearance-delivery",
         "/controllers/egkk/software",
         "/controllers/egkk/sops"
       ]
@@ -27,12 +29,13 @@
     "/controllers/mdpc": {
       "children": [
         "/controllers/mdpc/briefing",
-        "/controllers/mdpc/clearance delivery",
+        "/controllers/mdpc/clearance-delivery",
         "/controllers/mdpc/software",
         "/controllers/mdpc/sops"
       ]
     },
     "/general": {
+      "dataFile": "General/.data.md",
       "children": [
         "/general/ratings",
         "/general/roles"
@@ -71,14 +74,25 @@
         "/pilots/mdpc/briefing",
         "/pilots/mdpc/sops"
       ]
+    },
+    "/policies": {
+      "dataFile": "Policies/.data.md",
+      "children": [
+        "/policies/contributing-policy",
+        "/policies/privacy-policy",
+        "/policies/terms-of-service"
+      ]
     }
   },
   "pages": {
+    "/about": {
+      "file": "About.md"
+    },
     "/controllers/egkk/briefing": {
       "file": "Controllers/EGKK/Briefing.md"
     },
-    "/controllers/egkk/clearance delivery": {
-      "file": "Controllers/EGKK/Clearance Delivery.md"
+    "/controllers/egkk/clearance-delivery": {
+      "file": "Controllers/EGKK/Clearance-Delivery.md"
     },
     "/controllers/egkk/software": {
       "file": "Controllers/EGKK/Software.md"
@@ -89,8 +103,8 @@
     "/controllers/mdpc/briefing": {
       "file": "Controllers/MDPC/Briefing.md"
     },
-    "/controllers/mdpc/clearance delivery": {
-      "file": "Controllers/MDPC/Clearance Delivery.md"
+    "/controllers/mdpc/clearance-delivery": {
+      "file": "Controllers/MDPC/Clearance-Delivery.md"
     },
     "/controllers/mdpc/software": {
       "file": "Controllers/MDPC/Software.md"
@@ -130,6 +144,15 @@
     },
     "/pilots/mdpc/sops": {
       "file": "Pilots/MDPC/SOPs.md"
+    },
+    "/policies/contributing-policy": {
+      "file": "Policies/Contributing-Policy.md"
+    },
+    "/policies/privacy-policy": {
+      "file": "Policies/Privacy-Policy.md"
+    },
+    "/policies/terms-of-service": {
+      "file": "Policies/Terms-of-Service.md"
     },
     "/welcome": {
       "file": "Welcome.md"
