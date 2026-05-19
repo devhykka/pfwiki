@@ -1,11 +1,11 @@
 # Project owners
-* @project-flight/maintainers
+* @jyang365 @devhykka
 
 # Protected files, only to be edited by repository maintainers
 
-/.github/ @project-flight/maintainers
-/Policies/ @project-flight/maintainers
-About.md @project-flight/maintainers
-Demo.md @project-flight/maintainers
-manifest.json @project-flight/maintainers
-Welcome.md @project-flight/maintainers
+/.github/ @jyang365 @devhykka
+/Policies/ @jyang365 @devhykka
+About.md @jyang365 @devhykka
+Demo.md @jyang365 @devhykka
+manifest.json @jyang365 @devhykka
+Welcome.md @jyang365 @devhykka
