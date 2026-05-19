@@ -5,7 +5,7 @@
       "/about",
       "/controllers",
       "/demo",
-      "/general",
+      "/knowledgebase",
       "/pilots",
       "/policies",
       "/welcome"
@@ -34,27 +34,32 @@
         "/controllers/mdpc/sops"
       ]
     },
-    "/general": {
-      "dataFile": "General/.data.md",
+    "/knowledgebase": {
       "children": [
-        "/general/ratings",
-        "/general/roles"
+        "/knowledgebase/general"
       ]
     },
-    "/general/ratings": {
-      "dataFile": "General/Ratings/.data.md",
+    "/knowledgebase/general": {
+      "dataFile": "Knowledgebase/General/.data.md",
       "children": [
-        "/general/ratings/[c1]-trainee-controller",
-        "/general/ratings/[c2]-tower-controller",
-        "/general/ratings/[c3]-approach-controller",
-        "/general/ratings/[sc]-senior-controller"
+        "/knowledgebase/general/ratings",
+        "/knowledgebase/general/roles"
       ]
     },
-    "/general/roles": {
-      "dataFile": "General/Roles/.data.md",
+    "/knowledgebase/general/ratings": {
+      "dataFile": "Knowledgebase/General/Ratings/.data.md",
       "children": [
-        "/general/roles/leadership",
-        "/general/roles/operations"
+        "/knowledgebase/general/ratings/[c1]-trainee-controller",
+        "/knowledgebase/general/ratings/[c2]-tower-controller",
+        "/knowledgebase/general/ratings/[c3]-approach-controller",
+        "/knowledgebase/general/ratings/[sc]-senior-controller"
+      ]
+    },
+    "/knowledgebase/general/roles": {
+      "dataFile": "Knowledgebase/General/Roles/.data.md",
+      "children": [
+        "/knowledgebase/general/roles/leadership",
+        "/knowledgebase/general/roles/operations"
       ]
     },
     "/pilots": {
@@ -115,23 +120,23 @@
     "/demo": {
       "file": "Demo.md"
     },
-    "/general/ratings/[c1]-trainee-controller": {
-      "file": "General/Ratings/[C1]-Trainee-Controller.md"
+    "/knowledgebase/general/ratings/[c1]-trainee-controller": {
+      "file": "Knowledgebase/General/Ratings/[C1]-Trainee-Controller.md"
     },
-    "/general/ratings/[c2]-tower-controller": {
-      "file": "General/Ratings/[C2]-Tower-Controller.md"
+    "/knowledgebase/general/ratings/[c2]-tower-controller": {
+      "file": "Knowledgebase/General/Ratings/[C2]-Tower-Controller.md"
     },
-    "/general/ratings/[c3]-approach-controller": {
-      "file": "General/Ratings/[C3]-Approach-Controller.md"
+    "/knowledgebase/general/ratings/[c3]-approach-controller": {
+      "file": "Knowledgebase/General/Ratings/[C3]-Approach-Controller.md"
     },
-    "/general/ratings/[sc]-senior-controller": {
-      "file": "General/Ratings/[SC]-Senior-Controller.md"
+    "/knowledgebase/general/ratings/[sc]-senior-controller": {
+      "file": "Knowledgebase/General/Ratings/[SC]-Senior-Controller.md"
     },
-    "/general/roles/leadership": {
-      "file": "General/Roles/Leadership.md"
+    "/knowledgebase/general/roles/leadership": {
+      "file": "Knowledgebase/General/Roles/Leadership.md"
     },
-    "/general/roles/operations": {
-      "file": "General/Roles/Operations.md"
+    "/knowledgebase/general/roles/operations": {
+      "file": "Knowledgebase/General/Roles/Operations.md"
     },
     "/pilots/egkk/briefing": {
       "file": "Pilots/EGKK/Briefing.md"
