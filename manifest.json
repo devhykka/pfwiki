@@ -229,7 +229,8 @@
     },
     "/knowledgebase": {
       "children": [
-        "/knowledgebase/general"
+        "/knowledgebase/general",
+        "/knowledgebase/military"
       ]
     },
     "/knowledgebase/general": {
@@ -253,6 +254,16 @@
       "children": [
         "/knowledgebase/general/roles/leadership",
         "/knowledgebase/general/roles/operations"
+      ]
+    },
+    "/knowledgebase/military": {
+      "children": [
+        "/knowledgebase/military/uk"
+      ]
+    },
+    "/knowledgebase/military/uk": {
+      "children": [
+        "/knowledgebase/military/uk/pilot phraseology"
       ]
     },
     "/pilots": {
@@ -706,6 +717,9 @@
     },
     "/knowledgebase/general/roles/operations": {
       "file": "Knowledgebase/General/Roles/Operations.md"
+    },
+    "/knowledgebase/military/uk/pilot phraseology": {
+      "file": "Knowledgebase/Military/UK/Pilot Phraseology.md"
     },
     "/pilots/data": {
       "file": "Pilots/data.md"
