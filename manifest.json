@@ -13,6 +13,7 @@
   },
   "folders": {
     "/controllers": {
+      "dataFile": "Controllers/.data.md",
       "children": [
         "/controllers/data",
         "/controllers/eggx",
