@@ -261,17 +261,17 @@
         "/pilots/data",
         "/pilots/eggx",
         "/pilots/egpx",
-        "/pilots/egtt-old",
+        "/pilots/egtt",
         "/pilots/ehaa",
         "/pilots/eisn",
         "/pilots/ekdk",
         "/pilots/kzak",
-        "/pilots/lccc-old",
-        "/pilots/lppc-odl",
-        "/pilots/mdcs-old",
-        "/pilots/mteg-old",
+        "/pilots/lccc",
+        "/pilots/lppc",
+        "/pilots/mdcs",
+        "/pilots/mteg",
         "/pilots/obbb",
-        "/pilots/paza-old"
+        "/pilots/paza"
       ]
     },
     "/pilots/eggx": {
@@ -286,29 +286,29 @@
         "/pilots/egpx/sops"
       ]
     },
-    "/pilots/egtt-old": {
+    "/pilots/egtt": {
       "children": [
-        "/pilots/egtt-old/egff",
-        "/pilots/egtt-old/egkk",
-        "/pilots/egtt-old/eglc"
+        "/pilots/egtt/egff",
+        "/pilots/egtt/egkk",
+        "/pilots/egtt/eglc"
       ]
     },
-    "/pilots/egtt-old/egff": {
+    "/pilots/egtt/egff": {
       "children": [
-        "/pilots/egtt-old/egff/briefing",
-        "/pilots/egtt-old/egff/sops"
+        "/pilots/egtt/egff/briefing",
+        "/pilots/egtt/egff/sops"
       ]
     },
-    "/pilots/egtt-old/egkk": {
+    "/pilots/egtt/egkk": {
       "children": [
-        "/pilots/egtt-old/egkk/briefing",
-        "/pilots/egtt-old/egkk/sops"
+        "/pilots/egtt/egkk/briefing",
+        "/pilots/egtt/egkk/sops"
       ]
     },
-    "/pilots/egtt-old/eglc": {
+    "/pilots/egtt/eglc": {
       "children": [
-        "/pilots/egtt-old/eglc/briefing",
-        "/pilots/egtt-old/eglc/sops"
+        "/pilots/egtt/eglc/briefing",
+        "/pilots/egtt/eglc/sops"
       ]
     },
     "/pilots/ehaa": {
@@ -335,83 +335,83 @@
         "/pilots/kzak/sops"
       ]
     },
-    "/pilots/lccc-old": {
+    "/pilots/lccc": {
       "children": [
-        "/pilots/lccc-old/lclk",
-        "/pilots/lccc-old/lcph",
-        "/pilots/lccc-old/lcra"
+        "/pilots/lccc/lclk",
+        "/pilots/lccc/lcph",
+        "/pilots/lccc/lcra"
       ]
     },
-    "/pilots/lccc-old/lclk": {
+    "/pilots/lccc/lclk": {
       "children": [
-        "/pilots/lccc-old/lclk/briefing",
-        "/pilots/lccc-old/lclk/sops"
+        "/pilots/lccc/lclk/briefing",
+        "/pilots/lccc/lclk/sops"
       ]
     },
-    "/pilots/lccc-old/lcph": {
+    "/pilots/lccc/lcph": {
       "children": [
-        "/pilots/lccc-old/lcph/briefing",
-        "/pilots/lccc-old/lcph/sops"
+        "/pilots/lccc/lcph/briefing",
+        "/pilots/lccc/lcph/sops"
       ]
     },
-    "/pilots/lccc-old/lcra": {
+    "/pilots/lccc/lcra": {
       "children": [
-        "/pilots/lccc-old/lcra/briefing",
-        "/pilots/lccc-old/lcra/sops"
+        "/pilots/lccc/lcra/briefing",
+        "/pilots/lccc/lcra/sops"
       ]
     },
-    "/pilots/lppc-odl": {
+    "/pilots/lppc": {
       "children": [
-        "/pilots/lppc-odl/lpma"
+        "/pilots/lppc/lpma"
       ]
     },
-    "/pilots/lppc-odl/lpma": {
+    "/pilots/lppc/lpma": {
       "children": [
-        "/pilots/lppc-odl/lpma/briefing",
-        "/pilots/lppc-odl/lpma/sops"
+        "/pilots/lppc/lpma/briefing",
+        "/pilots/lppc/lpma/sops"
       ]
     },
-    "/pilots/mdcs-old": {
+    "/pilots/mdcs": {
       "children": [
-        "/pilots/mdcs-old/mdab",
-        "/pilots/mdcs-old/mdcr",
-        "/pilots/mdcs-old/mdpc",
-        "/pilots/mdcs-old/mdst"
+        "/pilots/mdcs/mdab",
+        "/pilots/mdcs/mdcr",
+        "/pilots/mdcs/mdpc",
+        "/pilots/mdcs/mdst"
       ]
     },
-    "/pilots/mdcs-old/mdab": {
+    "/pilots/mdcs/mdab": {
       "children": [
-        "/pilots/mdcs-old/mdab/briefing",
-        "/pilots/mdcs-old/mdab/sops"
+        "/pilots/mdcs/mdab/briefing",
+        "/pilots/mdcs/mdab/sops"
       ]
     },
-    "/pilots/mdcs-old/mdcr": {
+    "/pilots/mdcs/mdcr": {
       "children": [
-        "/pilots/mdcs-old/mdcr/briefing",
-        "/pilots/mdcs-old/mdcr/sops"
+        "/pilots/mdcs/mdcr/briefing",
+        "/pilots/mdcs/mdcr/sops"
       ]
     },
-    "/pilots/mdcs-old/mdpc": {
+    "/pilots/mdcs/mdpc": {
       "children": [
-        "/pilots/mdcs-old/mdpc/briefing",
-        "/pilots/mdcs-old/mdpc/sops"
+        "/pilots/mdcs/mdpc/briefing",
+        "/pilots/mdcs/mdpc/sops"
       ]
     },
-    "/pilots/mdcs-old/mdst": {
+    "/pilots/mdcs/mdst": {
       "children": [
-        "/pilots/mdcs-old/mdst/briefing",
-        "/pilots/mdcs-old/mdst/sops"
+        "/pilots/mdcs/mdst/briefing",
+        "/pilots/mdcs/mdst/sops"
       ]
     },
-    "/pilots/mteg-old": {
+    "/pilots/mteg": {
       "children": [
-        "/pilots/mteg-old/mtca"
+        "/pilots/mteg/mtca"
       ]
     },
-    "/pilots/mteg-old/mtca": {
+    "/pilots/mteg/mtca": {
       "children": [
-        "/pilots/mteg-old/mtca/briefing",
-        "/pilots/mteg-old/mtca/sops"
+        "/pilots/mteg/mtca/briefing",
+        "/pilots/mteg/mtca/sops"
       ]
     },
     "/pilots/obbb": {
@@ -420,15 +420,15 @@
         "/pilots/obbb/sops"
       ]
     },
-    "/pilots/paza-old": {
+    "/pilots/paza": {
       "children": [
-        "/pilots/paza-old/pafa"
+        "/pilots/paza/pafa"
       ]
     },
-    "/pilots/paza-old/pafa": {
+    "/pilots/paza/pafa": {
       "children": [
-        "/pilots/paza-old/pafa/briefing",
-        "/pilots/paza-old/pafa/sops"
+        "/pilots/paza/pafa/briefing",
+        "/pilots/paza/pafa/sops"
       ]
     },
     "/policies": {
@@ -723,23 +723,23 @@
     "/pilots/egpx/sops": {
       "file": "Pilots/EGPX/SOPs.md"
     },
-    "/pilots/egtt-old/egff/briefing": {
-      "file": "Pilots/egtt-old/EGFF/Briefing.md"
+    "/pilots/egtt/egff/briefing": {
+      "file": "Pilots/EGTT/EGFF/Briefing.md"
     },
-    "/pilots/egtt-old/egff/sops": {
-      "file": "Pilots/egtt-old/EGFF/SOPs.md"
+    "/pilots/egtt/egff/sops": {
+      "file": "Pilots/EGTT/EGFF/SOPs.md"
     },
-    "/pilots/egtt-old/egkk/briefing": {
-      "file": "Pilots/egtt-old/EGKK/Briefing.md"
+    "/pilots/egtt/egkk/briefing": {
+      "file": "Pilots/EGTT/EGKK/Briefing.md"
     },
-    "/pilots/egtt-old/egkk/sops": {
-      "file": "Pilots/egtt-old/EGKK/SOPs.md"
+    "/pilots/egtt/egkk/sops": {
+      "file": "Pilots/EGTT/EGKK/SOPs.md"
     },
-    "/pilots/egtt-old/eglc/briefing": {
-      "file": "Pilots/egtt-old/EGLC/Briefing.md"
+    "/pilots/egtt/eglc/briefing": {
+      "file": "Pilots/EGTT/EGLC/Briefing.md"
     },
-    "/pilots/egtt-old/eglc/sops": {
-      "file": "Pilots/egtt-old/EGLC/SOPs.md"
+    "/pilots/egtt/eglc/sops": {
+      "file": "Pilots/EGTT/EGLC/SOPs.md"
     },
     "/pilots/ehaa/briefing": {
       "file": "Pilots/EHAA/Briefing.md"
@@ -765,59 +765,59 @@
     "/pilots/kzak/sops": {
       "file": "Pilots/KZAK/SOPs.md"
     },
-    "/pilots/lccc-old/lclk/briefing": {
-      "file": "Pilots/lccc-old/LCLK/Briefing.md"
+    "/pilots/lccc/lclk/briefing": {
+      "file": "Pilots/LCCC/LCLK/Briefing.md"
     },
-    "/pilots/lccc-old/lclk/sops": {
-      "file": "Pilots/lccc-old/LCLK/SOPs.md"
+    "/pilots/lccc/lclk/sops": {
+      "file": "Pilots/LCCC/LCLK/SOPs.md"
     },
-    "/pilots/lccc-old/lcph/briefing": {
-      "file": "Pilots/lccc-old/LCPH/Briefing.md"
+    "/pilots/lccc/lcph/briefing": {
+      "file": "Pilots/LCCC/LCPH/Briefing.md"
     },
-    "/pilots/lccc-old/lcph/sops": {
-      "file": "Pilots/lccc-old/LCPH/SOPs.md"
+    "/pilots/lccc/lcph/sops": {
+      "file": "Pilots/LCCC/LCPH/SOPs.md"
     },
-    "/pilots/lccc-old/lcra/briefing": {
-      "file": "Pilots/lccc-old/LCRA/Briefing.md"
+    "/pilots/lccc/lcra/briefing": {
+      "file": "Pilots/LCCC/LCRA/Briefing.md"
     },
-    "/pilots/lccc-old/lcra/sops": {
-      "file": "Pilots/lccc-old/LCRA/SOPs.md"
+    "/pilots/lccc/lcra/sops": {
+      "file": "Pilots/LCCC/LCRA/SOPs.md"
     },
-    "/pilots/lppc-odl/lpma/briefing": {
-      "file": "Pilots/lppc-odl/LPMA/Briefing.md"
+    "/pilots/lppc/lpma/briefing": {
+      "file": "Pilots/LPPC/LPMA/Briefing.md"
     },
-    "/pilots/lppc-odl/lpma/sops": {
-      "file": "Pilots/lppc-odl/LPMA/SOPs.md"
+    "/pilots/lppc/lpma/sops": {
+      "file": "Pilots/LPPC/LPMA/SOPs.md"
     },
-    "/pilots/mdcs-old/mdab/briefing": {
-      "file": "Pilots/mdcs-old/MDAB/Briefing.md"
+    "/pilots/mdcs/mdab/briefing": {
+      "file": "Pilots/MDCS/MDAB/Briefing.md"
     },
-    "/pilots/mdcs-old/mdab/sops": {
-      "file": "Pilots/mdcs-old/MDAB/SOPs.md"
+    "/pilots/mdcs/mdab/sops": {
+      "file": "Pilots/MDCS/MDAB/SOPs.md"
     },
-    "/pilots/mdcs-old/mdcr/briefing": {
-      "file": "Pilots/mdcs-old/MDCR/Briefing.md"
+    "/pilots/mdcs/mdcr/briefing": {
+      "file": "Pilots/MDCS/MDCR/Briefing.md"
     },
-    "/pilots/mdcs-old/mdcr/sops": {
-      "file": "Pilots/mdcs-old/MDCR/SOPs.md"
+    "/pilots/mdcs/mdcr/sops": {
+      "file": "Pilots/MDCS/MDCR/SOPs.md"
     },
-    "/pilots/mdcs-old/mdpc/briefing": {
-      "file": "Pilots/mdcs-old/MDPC/Briefing.md"
+    "/pilots/mdcs/mdpc/briefing": {
+      "file": "Pilots/MDCS/MDPC/Briefing.md"
     },
-    "/pilots/mdcs-old/mdpc/sops": {
-      "file": "Pilots/mdcs-old/MDPC/SOPs.md"
+    "/pilots/mdcs/mdpc/sops": {
+      "file": "Pilots/MDCS/MDPC/SOPs.md"
     },
-    "/pilots/mdcs-old/mdst/briefing": {
-      "file": "Pilots/mdcs-old/MDST/Briefing.md"
+    "/pilots/mdcs/mdst/briefing": {
+      "file": "Pilots/MDCS/MDST/Briefing.md"
     },
-    "/pilots/mdcs-old/mdst/sops": {
-      "file": "Pilots/mdcs-old/MDST/SOPs.md"
+    "/pilots/mdcs/mdst/sops": {
+      "file": "Pilots/MDCS/MDST/SOPs.md"
     },
-    "/pilots/mteg-old/mtca/briefing": {
-      "file": "Pilots/mteg-old/MTCA/Briefing.md"
+    "/pilots/mteg/mtca/briefing": {
+      "file": "Pilots/MTEG/MTCA/Briefing.md"
     },
-    "/pilots/mteg-old/mtca/sops": {
-      "file": "Pilots/mteg-old/MTCA/SOPs.md"
+    "/pilots/mteg/mtca/sops": {
+      "file": "Pilots/MTEG/MTCA/SOPs.md"
     },
     "/pilots/obbb/briefing": {
       "file": "Pilots/OBBB/Briefing.md"
@@ -825,11 +825,11 @@
     "/pilots/obbb/sops": {
       "file": "Pilots/OBBB/SOPs.md"
     },
-    "/pilots/paza-old/pafa/briefing": {
-      "file": "Pilots/paza-old/PAFA/Briefing.md"
+    "/pilots/paza/pafa/briefing": {
+      "file": "Pilots/PAZA/PAFA/Briefing.md"
     },
-    "/pilots/paza-old/pafa/sops": {
-      "file": "Pilots/paza-old/PAFA/SOPs.md"
+    "/pilots/paza/pafa/sops": {
+      "file": "Pilots/PAZA/PAFA/SOPs.md"
     },
     "/policies/contributing-policy": {
       "file": "Policies/Contributing-Policy.md"
