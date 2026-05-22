@@ -15,7 +15,6 @@
     "/controllers": {
       "dataFile": "Controllers/.data.md",
       "children": [
-        "/controllers/data",
         "/controllers/eggx",
         "/controllers/egpx",
         "/controllers/egtt",
@@ -257,8 +256,8 @@
       ]
     },
     "/pilots": {
+      "dataFile": "Pilots/.data.md",
       "children": [
-        "/pilots/data",
         "/pilots/eggx",
         "/pilots/egpx",
         "/pilots/egtt",
@@ -443,9 +442,6 @@
   "pages": {
     "/about": {
       "file": "About.md"
-    },
-    "/controllers/data": {
-      "file": "Controllers/data.md"
     },
     "/controllers/eggx/briefing": {
       "file": "Controllers/EGGX/Briefing.md"
@@ -707,9 +703,6 @@
     },
     "/knowledgebase/general/roles/operations": {
       "file": "Knowledgebase/General/Roles/Operations.md"
-    },
-    "/pilots/data": {
-      "file": "Pilots/data.md"
     },
     "/pilots/eggx/briefing": {
       "file": "Pilots/EGGX/Briefing.md"
