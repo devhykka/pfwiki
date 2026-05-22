@@ -31,6 +31,7 @@
       ]
     },
     "/controllers/eggx": {
+      "dataFile": "Controllers/EGGX/.data.md",
       "children": [
         "/controllers/eggx/briefing",
         "/controllers/eggx/clearance-delivery",
@@ -39,6 +40,7 @@
       ]
     },
     "/controllers/egpx": {
+      "dataFile": "Controllers/EGPX/.data.md",
       "children": [
         "/controllers/egpx/briefing",
         "/controllers/egpx/clearance-delivery",
@@ -47,6 +49,7 @@
       ]
     },
     "/controllers/egtt": {
+      "dataFile": "Controllers/EGTT/.data.md",
       "children": [
         "/controllers/egtt/egff",
         "/controllers/egtt/egkk",
@@ -78,6 +81,7 @@
       ]
     },
     "/controllers/ehaa": {
+      "dataFile": "Controllers/EHAA/.data.md",
       "children": [
         "/controllers/ehaa/briefing",
         "/controllers/ehaa/clearance-delivery",
@@ -86,6 +90,7 @@
       ]
     },
     "/controllers/eisn": {
+      "dataFile": "Controllers/EISN/.data.md",
       "children": [
         "/controllers/eisn/briefing",
         "/controllers/eisn/clearance-delivery",
@@ -94,6 +99,7 @@
       ]
     },
     "/controllers/ekdk": {
+      "dataFile": "Controllers/EKDK/.data.md",
       "children": [
         "/controllers/ekdk/briefing",
         "/controllers/ekdk/clearance-delivery",
@@ -102,6 +108,7 @@
       ]
     },
     "/controllers/kzak": {
+      "dataFile": "Controllers/KZAK/.data.md",
       "children": [
         "/controllers/kzak/briefing",
         "/controllers/kzak/clearance-delivery",
@@ -110,6 +117,7 @@
       ]
     },
     "/controllers/lccc": {
+      "dataFile": "Controllers/LCCC/.data.md",
       "children": [
         "/controllers/lccc/lclk",
         "/controllers/lccc/lcph",
@@ -146,6 +154,7 @@
       ]
     },
     "/controllers/lppc/lpma": {
+      "dataFile": "Controllers/LPPC/LPMA/.data.md",
       "children": [
         "/controllers/lppc/lpma/briefing",
         "/controllers/lppc/lpma/clearance-delivery",
@@ -154,6 +163,7 @@
       ]
     },
     "/controllers/mdcs": {
+      "dataFile": "Controllers/MDCS/.data.md",
       "children": [
         "/controllers/mdcs/mdab",
         "/controllers/mdcs/mdcr",
@@ -199,6 +209,7 @@
       ]
     },
     "/controllers/mteg/mtca": {
+      "dataFile": "Controllers/MTEG/MTCA/.data.md",
       "children": [
         "/controllers/mteg/mtca/briefing",
         "/controllers/mteg/mtca/clearance-delivery",
@@ -207,6 +218,7 @@
       ]
     },
     "/controllers/obbb": {
+      "dataFile": "Controllers/OBBB/.data.md",
       "children": [
         "/controllers/obbb/briefing",
         "/controllers/obbb/clearance-delivery",
@@ -220,6 +232,7 @@
       ]
     },
     "/controllers/paza/pafa": {
+      "dataFile": "Controllers/PAZA/PAFA/.data.md",
       "children": [
         "/controllers/paza/pafa/briefing",
         "/controllers/paza/pafa/clearance-delivery",
@@ -274,18 +287,21 @@
       ]
     },
     "/pilots/eggx": {
+      "dataFile": "Pilots/EGGX/.data.md",
       "children": [
         "/pilots/eggx/briefing",
         "/pilots/eggx/sops"
       ]
     },
     "/pilots/egpx": {
+      "dataFile": "Pilots/EGPX/.data.md",
       "children": [
         "/pilots/egpx/briefing",
         "/pilots/egpx/sops"
       ]
     },
     "/pilots/egtt": {
+      "dataFile": "Pilots/EGTT/.data.md",
       "children": [
         "/pilots/egtt/egff",
         "/pilots/egtt/egkk",
@@ -311,30 +327,35 @@
       ]
     },
     "/pilots/ehaa": {
+      "dataFile": "Pilots/EHAA/.data.md",
       "children": [
         "/pilots/ehaa/briefing",
         "/pilots/ehaa/sops"
       ]
     },
     "/pilots/eisn": {
+      "dataFile": "Pilots/EISN/.data.md",
       "children": [
         "/pilots/eisn/briefing",
         "/pilots/eisn/sops"
       ]
     },
     "/pilots/ekdk": {
+      "dataFile": "Pilots/EKDK/.data.md",
       "children": [
         "/pilots/ekdk/briefing",
         "/pilots/ekdk/sops"
       ]
     },
     "/pilots/kzak": {
+      "dataFile": "Pilots/KZAK/.data.md",
       "children": [
         "/pilots/kzak/briefing",
         "/pilots/kzak/sops"
       ]
     },
     "/pilots/lccc": {
+      "dataFile": "Pilots/LCCC/.data.md",
       "children": [
         "/pilots/lccc/lclk",
         "/pilots/lccc/lcph",
@@ -365,12 +386,14 @@
       ]
     },
     "/pilots/lppc/lpma": {
+      "dataFile": "Pilots/LPPC/LPMA/.data.md",
       "children": [
         "/pilots/lppc/lpma/briefing",
         "/pilots/lppc/lpma/sops"
       ]
     },
     "/pilots/mdcs": {
+      "dataFile": "Pilots/MDCS/.data.md",
       "children": [
         "/pilots/mdcs/mdab",
         "/pilots/mdcs/mdcr",
@@ -408,12 +431,14 @@
       ]
     },
     "/pilots/mteg/mtca": {
+      "dataFile": "Pilots/MTEG/MTCA/.data.md",
       "children": [
         "/pilots/mteg/mtca/briefing",
         "/pilots/mteg/mtca/sops"
       ]
     },
     "/pilots/obbb": {
+      "dataFile": "Pilots/OBBB/.data.md",
       "children": [
         "/pilots/obbb/briefing",
         "/pilots/obbb/sops"
@@ -425,6 +450,7 @@
       ]
     },
     "/pilots/paza/pafa": {
+      "dataFile": "Pilots/PAZA/PAFA/.data.md",
       "children": [
         "/pilots/paza/pafa/briefing",
         "/pilots/paza/pafa/sops"
