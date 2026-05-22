@@ -1,1 +1,0 @@
-Find all standard operating procedures for aerodromes, terminal control units and enroute sectors to aid in providing a high-quality service in our virtual skies.
