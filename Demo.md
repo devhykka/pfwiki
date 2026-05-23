@@ -41,8 +41,4 @@ _Italic_
 
 > # Embed Title
 > Embed Body 2
-> Embed Body 2
-> | Title | Title |
-> | --- | --- |
-> | Content | Content |
-> | Content | Content |
+> **Embed Body 2**
