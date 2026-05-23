@@ -6,6 +6,8 @@
 
 This is normal body text.
 
+This is normal body text with a ?[Tooltip](A tooltip appears when you hover over the word!)
+
 ---
 
 | Chart | Purpose   | Required |
@@ -21,24 +23,23 @@ This is normal body text.
 - Bullet point 2
 - Bullet point 3
 
-1.) Numbered point 1
-2.) Numbered point 2
-3.) Numbered point 3
+  1.) Numbered point 1
+  2.) Numbered point 2
+  3.) Numbered point 3
 
 **Bold**
 
-__Underline__
+**Underline**
 
-*Italic*
+_Italic_
 
 _Italic_
 
 !!! warning Title
-    Content
+Content
 
 !!! info Title
-    Content
+Content
 
-> # Embed Title
 > Embed Body 2
 > **Embed Body 2**
