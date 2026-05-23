@@ -38,3 +38,11 @@ _Italic_
 
 !!! info Title
     Content
+
+> # Embed Title
+> Embed Body 2
+> Embed Body 2
+> | Title | Title |
+> | --- | --- |
+> | Content | Content |
+> | Content | Content |
