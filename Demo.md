@@ -6,7 +6,7 @@
 
 This is normal body text.
 
-This is normal body text with a ?[Tooltip](A tooltip appears when you hover over the word!)
+This is normal body text with a ?[Tooltip](A tooltip appears when you hover over the word!).
 
 ---
 
