@@ -1,3 +1,9 @@
-# Heading
+# Tower Controller 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta nisl ligula, quis sodales libero ultricies nec. Donec facilisis aliquam orci. Suspendisse placerat velit et pellentesque accumsan. Duis a eros neque. Phasellus gravida commodo turpis sed congue. Suspendisse eleifend tortor accumsan sem suscipit, quis suscipit neque porta. Suspendisse hendrerit ex quis dolor malesuada vulputate.
+The Tower Controller rating will allow fully rated controllers to connect as any aerodrome position **excluding** tower positions at aerodrome's labelled as procedural, which requires a Procedural Endorsement. You'll be able to connect as any Delivery, Ground or Tower position and provide aerodrome control services. Please note that the Tower Controller rating builds on the foundations from the Trainee Controller rating, introducing more concepts such as airspace management and circuit training. It is for this reason that it is recommended you consolidate your knowledge from the Trainee Controller rating before continuing. 
+
+These foundations will be tested if you decide to go for the Approach Controller rating where there are more requirements including a practical competency examination so make sure these are solid before moving onto the next rating.
+
+To achieve the Tower Controller rating you must: 
+- Have completed a sufficient amount of self-study and be knowledgable in all operational aspects
+- Have completed the theory examination with an acceptable result

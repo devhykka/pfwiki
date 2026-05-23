@@ -1,3 +1,12 @@
-# Heading
+# Approach Controller (C3)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta nisl ligula, quis sodales libero ultricies nec. Donec facilisis aliquam orci. Suspendisse placerat velit et pellentesque accumsan. Duis a eros neque. Phasellus gravida commodo turpis sed congue. Suspendisse eleifend tortor accumsan sem suscipit, quis suscipit neque porta. Suspendisse hendrerit ex quis dolor malesuada vulputate.
+The Approach Controller rating will allow fully rated controllers to control terminal airspace around any controlled aerodrome as an Approach controller. As an Approach controller you are expected to provide a variety of services whether that be aerodrome control or airborne control to aircraft. It is recommended that you start to expand your ability as a Tower Controller as you will be expected to provide top-down coverage as an Approach controller where aerodrome controllers are not online. 
+
+!!!warning It is imperative that you have spent time consolidating knowledge from the Tower Controller rating before moving onto terminal control. 
+
+Note that the Approach Controller rating is the first to introduce the requirement of a practical competency examination where candidates are placed onto the network with an instructor where their abilities will be assessed before being given the rating. 
+
+To achieve the Approach Controller rating you must:
+- Have completed a sufficient amount of self-study and be knowledgable in all operational aspects
+- Have completed the theory examination with an acceptable result
+- Pass a practical competency examination
