@@ -11,4 +11,5 @@ If any issues are encountered when using the Wiki, please file a report in the [
 {/Controllers}
 {/Policies}
 
-> %LAST_UPDATED%
+!!! info Note
+    This wiki is a work in progress. Expect many files to be empty or missing information as we work on expanding the wiki.
