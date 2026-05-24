@@ -1,3 +1,15 @@
-# Heading
+# Approach Controller (C3)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta nisl ligula, quis sodales libero ultricies nec. Donec facilisis aliquam orci. Suspendisse placerat velit et pellentesque accumsan. Duis a eros neque. Phasellus gravida commodo turpis sed congue. Suspendisse eleifend tortor accumsan sem suscipit, quis suscipit neque porta. Suspendisse hendrerit ex quis dolor malesuada vulputate.
+The Approach Controller rating allows rated controllers to provide terminal control services. An Approach controller is expected to provide a variety of services to safely guide aircraft in, and out, of terminal airspace. 
+
+The Approach Controller rating builds on the foundations of all previous ratings, as you will be expected to provide [top-down](https://wiki.pfatc.net/knowledgebase/general/top-down) coverage when local aerodrome controllers are unavailable. Therefore, we recommend that you consolidate your knowledge from all previous ratings before continuing.
+
+!!! warning Consolidation of Knowledge
+    It is imperative that you have spent time consolidating knowledge from the Tower and Trainee Controller ratings before moving onto terminal control. 
+
+> The Approach Controller rating is the first to introduce the requirement of a practical competency examination where candidates are placed onto the network with an instructor where their abilities will be assessed before being given the rating. 
+
+To achieve the Approach Controller rating you must:
+- Have completed a sufficient amount of self-study and be knowledgable in all operational aspects.
+- Have completed the theory examination with an acceptable result.
+- Pass a practical competency examination.

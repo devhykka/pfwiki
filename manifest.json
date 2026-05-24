@@ -305,7 +305,8 @@
     },
     "/knowledgebase": {
       "children": [
-        "/knowledgebase/general"
+        "/knowledgebase/general",
+        "/knowledgebase/vfr"
       ]
     },
     "/knowledgebase/general": {
@@ -329,6 +330,12 @@
       "children": [
         "/knowledgebase/general/roles/leadership",
         "/knowledgebase/general/roles/operations"
+      ]
+    },
+    "/knowledgebase/vfr": {
+      "dataFile": "Knowledgebase/VFR/.data.md",
+      "children": [
+        "/knowledgebase/vfr/pattern-work"
       ]
     },
     "/pilots": {
@@ -827,6 +834,9 @@
     },
     "/knowledgebase/general/roles/operations": {
       "file": "Knowledgebase/General/Roles/Operations.md"
+    },
+    "/knowledgebase/vfr/pattern-work": {
+      "file": "Knowledgebase/VFR/Pattern-Work.md"
     },
     "/pilots/eggx/enroute/briefing": {
       "file": "Pilots/EGGX/Enroute/Briefing.md"

@@ -1,3 +1,12 @@
-# Heading
+# Trainee Controller (C1)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta nisl ligula, quis sodales libero ultricies nec. Donec facilisis aliquam orci. Suspendisse placerat velit et pellentesque accumsan. Duis a eros neque. Phasellus gravida commodo turpis sed congue. Suspendisse eleifend tortor accumsan sem suscipit, quis suscipit neque porta. Suspendisse hendrerit ex quis dolor malesuada vulputate.
+The Trainee Controller rating allows rated controllers to provide Ground and Clearance/Delivery services. 
+
+It is recommended to observe rated controllers to gain an understanding of the duties you will perform when connected prior to sitting the exam. 
+
+!!! info Note
+    PFATC follows the [top-down](https://wiki.pfatc.net/knowledgebase/general/top-down) philosophy where controllers connected on a higher position will provide coverage for lower positions if independent controllers are offline. 
+
+To achieve the Trainee Controller rating you must:
+- Have completed a sufficient amount of self-study and be knowledgable in all operational aspects.
+- Have completed the theory examination with an acceptable result.
