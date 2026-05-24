@@ -37,6 +37,7 @@ Upon first contact with Gatwick Delivery, aircraft should report the following: 
 > EZY8660, type A320, stand 210, information M, QNH 1013, request clearance to Larnaca.
 
 If Gatwick Delivery is independently staffed, you may be instructed to report ready for push and/or startup. Remain on `EGKK_DEL` until explicitly given a frequency change.
+Gatwick Planner (`EGKK_P_GND`) serves as a buffer between Delivery and Ground to help manage traffic flow (typically during events). If Planner is online, expect to contact them immediately after receiving your clearance from `EGKK_DEL`.
 
 ---
 
