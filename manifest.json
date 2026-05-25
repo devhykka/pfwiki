@@ -235,10 +235,13 @@
     },
     "/controllers/mdcs/mdpc": {
       "children": [
+        "/controllers/mdcs/mdpc/approach",
         "/controllers/mdcs/mdpc/briefing",
         "/controllers/mdcs/mdpc/clearance-delivery",
+        "/controllers/mdcs/mdpc/ground",
         "/controllers/mdcs/mdpc/software",
-        "/controllers/mdcs/mdpc/sops"
+        "/controllers/mdcs/mdpc/sops",
+        "/controllers/mdcs/mdpc/tower"
       ]
     },
     "/controllers/mdcs/mdst": {
@@ -750,17 +753,26 @@
     "/controllers/mdcs/mdcr/sops": {
       "file": "Controllers/MDCS/MDCR/SOPs.md"
     },
+    "/controllers/mdcs/mdpc/approach": {
+      "file": "Controllers/MDCS/MDPC/Approach.md"
+    },
     "/controllers/mdcs/mdpc/briefing": {
       "file": "Controllers/MDCS/MDPC/Briefing.md"
     },
     "/controllers/mdcs/mdpc/clearance-delivery": {
       "file": "Controllers/MDCS/MDPC/Clearance-Delivery.md"
     },
+    "/controllers/mdcs/mdpc/ground": {
+      "file": "Controllers/MDCS/MDPC/Ground.md"
+    },
     "/controllers/mdcs/mdpc/software": {
       "file": "Controllers/MDCS/MDPC/Software.md"
     },
     "/controllers/mdcs/mdpc/sops": {
       "file": "Controllers/MDCS/MDPC/SOPs.md"
+    },
+    "/controllers/mdcs/mdpc/tower": {
+      "file": "Controllers/MDCS/MDPC/Tower.md"
     },
     "/controllers/mdcs/mdst/briefing": {
       "file": "Controllers/MDCS/MDST/Briefing.md"
