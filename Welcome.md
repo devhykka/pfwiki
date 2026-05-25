@@ -6,7 +6,10 @@ A search bar is available at the top of the site and is usually the go-to when s
 
 If any issues are encountered when using the Wiki, please file a report in the [Discord](https://discord.gg/pfatc). See Wiki contributors also in the [Discord](https://discord.gg/pfatc), with the 'Contributor' role.
 
-{/General}
+{/Knowledgebase}
 {/Pilots}
 {/Controllers}
 {/Policies}
+
+!!! info Note
+    This wiki is a work in progress. Expect many files to be empty or missing information as we work on expanding the wiki.

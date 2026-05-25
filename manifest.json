@@ -5,7 +5,7 @@
       "/about",
       "/controllers",
       "/demo",
-      "/general",
+      "/knowledgebase",
       "/pilots",
       "/policies",
       "/welcome"
@@ -13,66 +13,590 @@
   },
   "folders": {
     "/controllers": {
+      "dataFile": "Controllers/.data.md",
       "children": [
-        "/controllers/egkk",
-        "/controllers/mdpc"
+        "/controllers/eggx",
+        "/controllers/egpx",
+        "/controllers/egtt",
+        "/controllers/ehaa",
+        "/controllers/eisn",
+        "/controllers/ekdk",
+        "/controllers/kzak",
+        "/controllers/lccc",
+        "/controllers/lppc",
+        "/controllers/mdcs",
+        "/controllers/mteg",
+        "/controllers/obbb",
+        "/controllers/paza"
       ]
     },
-    "/controllers/egkk": {
+    "/controllers/eggx": {
+      "dataFile": "Controllers/EGGX/.data.md",
       "children": [
-        "/controllers/egkk/briefing",
-        "/controllers/egkk/clearance-delivery",
-        "/controllers/egkk/software",
-        "/controllers/egkk/sops"
+        "/controllers/eggx/enroute"
       ]
     },
-    "/controllers/mdpc": {
+    "/controllers/eggx/enroute": {
+      "dataFile": "Controllers/EGGX/Enroute/.data.md",
       "children": [
-        "/controllers/mdpc/briefing",
-        "/controllers/mdpc/clearance-delivery",
-        "/controllers/mdpc/software",
-        "/controllers/mdpc/sops"
+        "/controllers/eggx/enroute/briefing"
       ]
     },
-    "/general": {
-      "dataFile": "General/.data.md",
+    "/controllers/egpx": {
+      "dataFile": "Controllers/EGPX/.data.md",
       "children": [
-        "/general/ratings",
-        "/general/roles"
+        "/controllers/egpx/enroute"
       ]
     },
-    "/general/ratings": {
-      "dataFile": "General/Ratings/.data.md",
+    "/controllers/egpx/enroute": {
+      "dataFile": "Controllers/EGPX/Enroute/.data.md",
       "children": [
-        "/general/ratings/[c1]-trainee-controller",
-        "/general/ratings/[c2]-tower-controller",
-        "/general/ratings/[c3]-approach-controller",
-        "/general/ratings/[sc]-senior-controller"
+        "/controllers/egpx/enroute/briefing"
       ]
     },
-    "/general/roles": {
-      "dataFile": "General/Roles/.data.md",
+    "/controllers/egtt": {
+      "dataFile": "Controllers/EGTT/.data.md",
       "children": [
-        "/general/roles/leadership",
-        "/general/roles/operations"
+        "/controllers/egtt/egff",
+        "/controllers/egtt/egkk",
+        "/controllers/egtt/eglc",
+        "/controllers/egtt/enroute"
+      ]
+    },
+    "/controllers/egtt/egff": {
+      "children": [
+        "/controllers/egtt/egff/briefing",
+        "/controllers/egtt/egff/clearance-delivery",
+        "/controllers/egtt/egff/software",
+        "/controllers/egtt/egff/sops"
+      ]
+    },
+    "/controllers/egtt/egkk": {
+      "children": [
+        "/controllers/egtt/egkk/briefing",
+        "/controllers/egtt/egkk/clearance-delivery",
+        "/controllers/egtt/egkk/software",
+        "/controllers/egtt/egkk/sops"
+      ]
+    },
+    "/controllers/egtt/eglc": {
+      "children": [
+        "/controllers/egtt/eglc/briefing",
+        "/controllers/egtt/eglc/clearance-delivery",
+        "/controllers/egtt/eglc/software",
+        "/controllers/egtt/eglc/sops"
+      ]
+    },
+    "/controllers/egtt/enroute": {
+      "dataFile": "Controllers/EGTT/Enroute/.data.md",
+      "children": [
+        "/controllers/egtt/enroute/briefing"
+      ]
+    },
+    "/controllers/ehaa": {
+      "dataFile": "Controllers/EHAA/.data.md",
+      "children": [
+        "/controllers/ehaa/enroute"
+      ]
+    },
+    "/controllers/ehaa/enroute": {
+      "dataFile": "Controllers/EHAA/Enroute/.data.md",
+      "children": [
+        "/controllers/ehaa/enroute/briefing"
+      ]
+    },
+    "/controllers/eisn": {
+      "dataFile": "Controllers/EISN/.data.md",
+      "children": [
+        "/controllers/eisn/enroute"
+      ]
+    },
+    "/controllers/eisn/enroute": {
+      "dataFile": "Controllers/EISN/Enroute/.data.md",
+      "children": [
+        "/controllers/eisn/enroute/briefing"
+      ]
+    },
+    "/controllers/ekdk": {
+      "dataFile": "Controllers/EKDK/.data.md",
+      "children": [
+        "/controllers/ekdk/enroute"
+      ]
+    },
+    "/controllers/ekdk/enroute": {
+      "dataFile": "Controllers/EKDK/Enroute/.data.md",
+      "children": [
+        "/controllers/ekdk/enroute/briefing"
+      ]
+    },
+    "/controllers/kzak": {
+      "dataFile": "Controllers/KZAK/.data.md",
+      "children": [
+        "/controllers/kzak/enroute"
+      ]
+    },
+    "/controllers/kzak/enroute": {
+      "dataFile": "Controllers/KZAK/Enroute/.data.md",
+      "children": [
+        "/controllers/kzak/enroute/briefing"
+      ]
+    },
+    "/controllers/lccc": {
+      "dataFile": "Controllers/LCCC/.data.md",
+      "children": [
+        "/controllers/lccc/enroute",
+        "/controllers/lccc/lclk",
+        "/controllers/lccc/lcph",
+        "/controllers/lccc/lcra"
+      ]
+    },
+    "/controllers/lccc/enroute": {
+      "dataFile": "Controllers/LCCC/Enroute/.data.md",
+      "children": [
+        "/controllers/lccc/enroute/briefing"
+      ]
+    },
+    "/controllers/lccc/lclk": {
+      "children": [
+        "/controllers/lccc/lclk/briefing",
+        "/controllers/lccc/lclk/clearance-delivery",
+        "/controllers/lccc/lclk/software",
+        "/controllers/lccc/lclk/sops"
+      ]
+    },
+    "/controllers/lccc/lcph": {
+      "children": [
+        "/controllers/lccc/lcph/briefing",
+        "/controllers/lccc/lcph/clearance-delivery",
+        "/controllers/lccc/lcph/software",
+        "/controllers/lccc/lcph/sops"
+      ]
+    },
+    "/controllers/lccc/lcra": {
+      "children": [
+        "/controllers/lccc/lcra/briefing",
+        "/controllers/lccc/lcra/clearance-delivery",
+        "/controllers/lccc/lcra/software",
+        "/controllers/lccc/lcra/sops"
+      ]
+    },
+    "/controllers/lppc": {
+      "children": [
+        "/controllers/lppc/enroute",
+        "/controllers/lppc/lpma"
+      ]
+    },
+    "/controllers/lppc/enroute": {
+      "dataFile": "Controllers/LPPC/Enroute/.data.md",
+      "children": [
+        "/controllers/lppc/enroute/briefing"
+      ]
+    },
+    "/controllers/lppc/lpma": {
+      "dataFile": "Controllers/LPPC/LPMA/.data.md",
+      "children": [
+        "/controllers/lppc/lpma/briefing",
+        "/controllers/lppc/lpma/clearance-delivery",
+        "/controllers/lppc/lpma/software",
+        "/controllers/lppc/lpma/sops"
+      ]
+    },
+    "/controllers/mdcs": {
+      "dataFile": "Controllers/MDCS/.data.md",
+      "children": [
+        "/controllers/mdcs/enroute",
+        "/controllers/mdcs/mdab",
+        "/controllers/mdcs/mdcr",
+        "/controllers/mdcs/mdpc",
+        "/controllers/mdcs/mdst"
+      ]
+    },
+    "/controllers/mdcs/enroute": {
+      "dataFile": "Controllers/MDCS/Enroute/.data.md",
+      "children": [
+        "/controllers/mdcs/enroute/briefing"
+      ]
+    },
+    "/controllers/mdcs/mdab": {
+      "children": [
+        "/controllers/mdcs/mdab/briefing",
+        "/controllers/mdcs/mdab/clearance-delivery",
+        "/controllers/mdcs/mdab/software",
+        "/controllers/mdcs/mdab/sops"
+      ]
+    },
+    "/controllers/mdcs/mdcr": {
+      "children": [
+        "/controllers/mdcs/mdcr/briefing",
+        "/controllers/mdcs/mdcr/clearance-delivery",
+        "/controllers/mdcs/mdcr/software",
+        "/controllers/mdcs/mdcr/sops"
+      ]
+    },
+    "/controllers/mdcs/mdpc": {
+      "children": [
+        "/controllers/mdcs/mdpc/briefing",
+        "/controllers/mdcs/mdpc/clearance-delivery",
+        "/controllers/mdcs/mdpc/software",
+        "/controllers/mdcs/mdpc/sops"
+      ]
+    },
+    "/controllers/mdcs/mdst": {
+      "children": [
+        "/controllers/mdcs/mdst/briefing",
+        "/controllers/mdcs/mdst/clearance-delivery",
+        "/controllers/mdcs/mdst/software",
+        "/controllers/mdcs/mdst/sops"
+      ]
+    },
+    "/controllers/mteg": {
+      "children": [
+        "/controllers/mteg/enroute",
+        "/controllers/mteg/mtca"
+      ]
+    },
+    "/controllers/mteg/enroute": {
+      "dataFile": "Controllers/MTEG/Enroute/.data.md",
+      "children": [
+        "/controllers/mteg/enroute/briefing"
+      ]
+    },
+    "/controllers/mteg/mtca": {
+      "dataFile": "Controllers/MTEG/MTCA/.data.md",
+      "children": [
+        "/controllers/mteg/mtca/briefing",
+        "/controllers/mteg/mtca/clearance-delivery",
+        "/controllers/mteg/mtca/software",
+        "/controllers/mteg/mtca/sops"
+      ]
+    },
+    "/controllers/obbb": {
+      "dataFile": "Controllers/OBBB/.data.md",
+      "children": [
+        "/controllers/obbb/enroute"
+      ]
+    },
+    "/controllers/obbb/enroute": {
+      "dataFile": "Controllers/OBBB/Enroute/.data.md",
+      "children": [
+        "/controllers/obbb/enroute/briefing"
+      ]
+    },
+    "/controllers/paza": {
+      "children": [
+        "/controllers/paza/enroute",
+        "/controllers/paza/pafa"
+      ]
+    },
+    "/controllers/paza/enroute": {
+      "dataFile": "Controllers/PAZA/Enroute/.data.md",
+      "children": [
+        "/controllers/paza/enroute/briefing"
+      ]
+    },
+    "/controllers/paza/pafa": {
+      "dataFile": "Controllers/PAZA/PAFA/.data.md",
+      "children": [
+        "/controllers/paza/pafa/briefing",
+        "/controllers/paza/pafa/clearance-delivery",
+        "/controllers/paza/pafa/software",
+        "/controllers/paza/pafa/sops"
+      ]
+    },
+    "/knowledgebase": {
+      "children": [
+        "/knowledgebase/general"
+      ]
+    },
+    "/knowledgebase/general": {
+      "dataFile": "Knowledgebase/General/.data.md",
+      "children": [
+        "/knowledgebase/general/ratings",
+        "/knowledgebase/general/roles"
+      ]
+    },
+    "/knowledgebase/general/ratings": {
+      "dataFile": "Knowledgebase/General/Ratings/.data.md",
+      "children": [
+        "/knowledgebase/general/ratings/[c1]-trainee-controller",
+        "/knowledgebase/general/ratings/[c2]-tower-controller",
+        "/knowledgebase/general/ratings/[c3]-approach-controller",
+        "/knowledgebase/general/ratings/[sc]-senior-controller"
+      ]
+    },
+    "/knowledgebase/general/roles": {
+      "dataFile": "Knowledgebase/General/Roles/.data.md",
+      "children": [
+        "/knowledgebase/general/roles/leadership",
+        "/knowledgebase/general/roles/operations"
       ]
     },
     "/pilots": {
+      "dataFile": "Pilots/.data.md",
       "children": [
-        "/pilots/egkk",
-        "/pilots/mdpc"
+        "/pilots/eggx",
+        "/pilots/egpx",
+        "/pilots/egtt",
+        "/pilots/ehaa",
+        "/pilots/eisn",
+        "/pilots/ekdk",
+        "/pilots/kzak",
+        "/pilots/lccc",
+        "/pilots/lppc",
+        "/pilots/mdcs",
+        "/pilots/mteg",
+        "/pilots/obbb",
+        "/pilots/paza"
       ]
     },
-    "/pilots/egkk": {
+    "/pilots/eggx": {
+      "dataFile": "Pilots/EGGX/.data.md",
       "children": [
-        "/pilots/egkk/briefing",
-        "/pilots/egkk/sops"
+        "/pilots/eggx/enroute"
       ]
     },
-    "/pilots/mdpc": {
+    "/pilots/eggx/enroute": {
+      "dataFile": "Pilots/EGGX/Enroute/.data.md",
       "children": [
-        "/pilots/mdpc/briefing",
-        "/pilots/mdpc/sops"
+        "/pilots/eggx/enroute/briefing"
+      ]
+    },
+    "/pilots/egpx": {
+      "dataFile": "Pilots/EGPX/.data.md",
+      "children": [
+        "/pilots/egpx/briefing",
+        "/pilots/egpx/demo",
+        "/pilots/egpx/enroute",
+        "/pilots/egpx/sops"
+      ]
+    },
+    "/pilots/egpx/enroute": {
+      "dataFile": "Pilots/EGPX/Enroute/.data.md",
+      "children": [
+        "/pilots/egpx/enroute/briefing"
+      ]
+    },
+    "/pilots/egtt": {
+      "dataFile": "Pilots/EGTT/.data.md",
+      "children": [
+        "/pilots/egtt/egff",
+        "/pilots/egtt/egkk",
+        "/pilots/egtt/eglc",
+        "/pilots/egtt/enroute"
+      ]
+    },
+    "/pilots/egtt/egff": {
+      "children": [
+        "/pilots/egtt/egff/briefing",
+        "/pilots/egtt/egff/sops"
+      ]
+    },
+    "/pilots/egtt/egkk": {
+      "children": [
+        "/pilots/egtt/egkk/briefing",
+        "/pilots/egtt/egkk/sops"
+      ]
+    },
+    "/pilots/egtt/eglc": {
+      "children": [
+        "/pilots/egtt/eglc/briefing",
+        "/pilots/egtt/eglc/sops"
+      ]
+    },
+    "/pilots/egtt/enroute": {
+      "dataFile": "Pilots/EGTT/Enroute/.data.md",
+      "children": [
+        "/pilots/egtt/enroute/briefing"
+      ]
+    },
+    "/pilots/ehaa": {
+      "dataFile": "Pilots/EHAA/.data.md",
+      "children": [
+        "/pilots/ehaa/enroute"
+      ]
+    },
+    "/pilots/ehaa/enroute": {
+      "dataFile": "Pilots/EHAA/Enroute/.data.md",
+      "children": [
+        "/pilots/ehaa/enroute/briefing"
+      ]
+    },
+    "/pilots/eisn": {
+      "dataFile": "Pilots/EISN/.data.md",
+      "children": [
+        "/pilots/eisn/enroute"
+      ]
+    },
+    "/pilots/eisn/enroute": {
+      "dataFile": "Pilots/EISN/Enroute/.data.md",
+      "children": [
+        "/pilots/eisn/enroute/briefing"
+      ]
+    },
+    "/pilots/ekdk": {
+      "dataFile": "Pilots/EKDK/.data.md",
+      "children": [
+        "/pilots/ekdk/enroute"
+      ]
+    },
+    "/pilots/ekdk/enroute": {
+      "dataFile": "Pilots/EKDK/Enroute/.data.md",
+      "children": [
+        "/pilots/ekdk/enroute/briefing"
+      ]
+    },
+    "/pilots/kzak": {
+      "dataFile": "Pilots/KZAK/.data.md",
+      "children": [
+        "/pilots/kzak/enroute"
+      ]
+    },
+    "/pilots/kzak/enroute": {
+      "dataFile": "Pilots/KZAK/Enroute/.data.md",
+      "children": [
+        "/pilots/kzak/enroute/briefing"
+      ]
+    },
+    "/pilots/lccc": {
+      "dataFile": "Pilots/LCCC/.data.md",
+      "children": [
+        "/pilots/lccc/enroute",
+        "/pilots/lccc/lclk",
+        "/pilots/lccc/lcph",
+        "/pilots/lccc/lcra"
+      ]
+    },
+    "/pilots/lccc/enroute": {
+      "dataFile": "Pilots/LCCC/Enroute/.data.md",
+      "children": [
+        "/pilots/lccc/enroute/briefing"
+      ]
+    },
+    "/pilots/lccc/lclk": {
+      "children": [
+        "/pilots/lccc/lclk/briefing",
+        "/pilots/lccc/lclk/sops"
+      ]
+    },
+    "/pilots/lccc/lcph": {
+      "children": [
+        "/pilots/lccc/lcph/briefing",
+        "/pilots/lccc/lcph/sops"
+      ]
+    },
+    "/pilots/lccc/lcra": {
+      "children": [
+        "/pilots/lccc/lcra/briefing",
+        "/pilots/lccc/lcra/sops"
+      ]
+    },
+    "/pilots/lppc": {
+      "children": [
+        "/pilots/lppc/enroute",
+        "/pilots/lppc/lpma"
+      ]
+    },
+    "/pilots/lppc/enroute": {
+      "dataFile": "Pilots/LPPC/Enroute/.data.md",
+      "children": [
+        "/pilots/lppc/enroute/briefing"
+      ]
+    },
+    "/pilots/lppc/lpma": {
+      "dataFile": "Pilots/LPPC/LPMA/.data.md",
+      "children": [
+        "/pilots/lppc/lpma/briefing",
+        "/pilots/lppc/lpma/sops"
+      ]
+    },
+    "/pilots/mdcs": {
+      "dataFile": "Pilots/MDCS/.data.md",
+      "children": [
+        "/pilots/mdcs/enroute",
+        "/pilots/mdcs/mdab",
+        "/pilots/mdcs/mdcr",
+        "/pilots/mdcs/mdpc",
+        "/pilots/mdcs/mdst"
+      ]
+    },
+    "/pilots/mdcs/enroute": {
+      "dataFile": "Pilots/MDCS/Enroute/.data.md",
+      "children": [
+        "/pilots/mdcs/enroute/briefing"
+      ]
+    },
+    "/pilots/mdcs/mdab": {
+      "children": [
+        "/pilots/mdcs/mdab/briefing",
+        "/pilots/mdcs/mdab/sops"
+      ]
+    },
+    "/pilots/mdcs/mdcr": {
+      "children": [
+        "/pilots/mdcs/mdcr/briefing",
+        "/pilots/mdcs/mdcr/sops"
+      ]
+    },
+    "/pilots/mdcs/mdpc": {
+      "children": [
+        "/pilots/mdcs/mdpc/briefing",
+        "/pilots/mdcs/mdpc/sops"
+      ]
+    },
+    "/pilots/mdcs/mdst": {
+      "children": [
+        "/pilots/mdcs/mdst/briefing",
+        "/pilots/mdcs/mdst/sops"
+      ]
+    },
+    "/pilots/mteg": {
+      "children": [
+        "/pilots/mteg/enroute",
+        "/pilots/mteg/mtca"
+      ]
+    },
+    "/pilots/mteg/enroute": {
+      "dataFile": "Pilots/MTEG/Enroute/.data.md",
+      "children": [
+        "/pilots/mteg/enroute/briefing"
+      ]
+    },
+    "/pilots/mteg/mtca": {
+      "dataFile": "Pilots/MTEG/MTCA/.data.md",
+      "children": [
+        "/pilots/mteg/mtca/briefing",
+        "/pilots/mteg/mtca/sops"
+      ]
+    },
+    "/pilots/obbb": {
+      "dataFile": "Pilots/OBBB/.data.md",
+      "children": [
+        "/pilots/obbb/enroute"
+      ]
+    },
+    "/pilots/obbb/enroute": {
+      "dataFile": "Pilots/OBBB/Enroute/.data.md",
+      "children": [
+        "/pilots/obbb/enroute/briefing"
+      ]
+    },
+    "/pilots/paza": {
+      "children": [
+        "/pilots/paza/enroute",
+        "/pilots/paza/pafa"
+      ]
+    },
+    "/pilots/paza/enroute": {
+      "dataFile": "Pilots/PAZA/Enroute/.data.md",
+      "children": [
+        "/pilots/paza/enroute/briefing"
+      ]
+    },
+    "/pilots/paza/pafa": {
+      "dataFile": "Pilots/PAZA/PAFA/.data.md",
+      "children": [
+        "/pilots/paza/pafa/briefing",
+        "/pilots/paza/pafa/sops"
       ]
     },
     "/policies": {
@@ -88,62 +612,347 @@
     "/about": {
       "file": "About.md"
     },
-    "/controllers/egkk/briefing": {
-      "file": "Controllers/EGKK/Briefing.md"
+    "/controllers/eggx/enroute/briefing": {
+      "file": "Controllers/EGGX/Enroute/Briefing.md"
     },
-    "/controllers/egkk/clearance-delivery": {
-      "file": "Controllers/EGKK/Clearance-Delivery.md"
+    "/controllers/egpx/enroute/briefing": {
+      "file": "Controllers/EGPX/Enroute/Briefing.md"
     },
-    "/controllers/egkk/software": {
-      "file": "Controllers/EGKK/Software.md"
+    "/controllers/egtt/egff/briefing": {
+      "file": "Controllers/EGTT/EGFF/Briefing.md"
     },
-    "/controllers/egkk/sops": {
-      "file": "Controllers/EGKK/SOPs.md"
+    "/controllers/egtt/egff/clearance-delivery": {
+      "file": "Controllers/EGTT/EGFF/Clearance-Delivery.md"
     },
-    "/controllers/mdpc/briefing": {
-      "file": "Controllers/MDPC/Briefing.md"
+    "/controllers/egtt/egff/software": {
+      "file": "Controllers/EGTT/EGFF/Software.md"
     },
-    "/controllers/mdpc/clearance-delivery": {
-      "file": "Controllers/MDPC/Clearance-Delivery.md"
+    "/controllers/egtt/egff/sops": {
+      "file": "Controllers/EGTT/EGFF/SOPs.md"
     },
-    "/controllers/mdpc/software": {
-      "file": "Controllers/MDPC/Software.md"
+    "/controllers/egtt/egkk/briefing": {
+      "file": "Controllers/EGTT/EGKK/Briefing.md"
     },
-    "/controllers/mdpc/sops": {
-      "file": "Controllers/MDPC/SOPs.md"
+    "/controllers/egtt/egkk/clearance-delivery": {
+      "file": "Controllers/EGTT/EGKK/Clearance-Delivery.md"
+    },
+    "/controllers/egtt/egkk/software": {
+      "file": "Controllers/EGTT/EGKK/Software.md"
+    },
+    "/controllers/egtt/egkk/sops": {
+      "file": "Controllers/EGTT/EGKK/SOPs.md"
+    },
+    "/controllers/egtt/eglc/briefing": {
+      "file": "Controllers/EGTT/EGLC/Briefing.md"
+    },
+    "/controllers/egtt/eglc/clearance-delivery": {
+      "file": "Controllers/EGTT/EGLC/Clearance-Delivery.md"
+    },
+    "/controllers/egtt/eglc/software": {
+      "file": "Controllers/EGTT/EGLC/Software.md"
+    },
+    "/controllers/egtt/eglc/sops": {
+      "file": "Controllers/EGTT/EGLC/SOPs.md"
+    },
+    "/controllers/egtt/enroute/briefing": {
+      "file": "Controllers/EGTT/Enroute/Briefing.md"
+    },
+    "/controllers/ehaa/enroute/briefing": {
+      "file": "Controllers/EHAA/Enroute/Briefing.md"
+    },
+    "/controllers/eisn/enroute/briefing": {
+      "file": "Controllers/EISN/Enroute/Briefing.md"
+    },
+    "/controllers/ekdk/enroute/briefing": {
+      "file": "Controllers/EKDK/Enroute/Briefing.md"
+    },
+    "/controllers/kzak/enroute/briefing": {
+      "file": "Controllers/KZAK/Enroute/Briefing.md"
+    },
+    "/controllers/lccc/enroute/briefing": {
+      "file": "Controllers/LCCC/Enroute/Briefing.md"
+    },
+    "/controllers/lccc/lclk/briefing": {
+      "file": "Controllers/LCCC/LCLK/Briefing.md"
+    },
+    "/controllers/lccc/lclk/clearance-delivery": {
+      "file": "Controllers/LCCC/LCLK/Clearance-Delivery.md"
+    },
+    "/controllers/lccc/lclk/software": {
+      "file": "Controllers/LCCC/LCLK/Software.md"
+    },
+    "/controllers/lccc/lclk/sops": {
+      "file": "Controllers/LCCC/LCLK/SOPs.md"
+    },
+    "/controllers/lccc/lcph/briefing": {
+      "file": "Controllers/LCCC/LCPH/Briefing.md"
+    },
+    "/controllers/lccc/lcph/clearance-delivery": {
+      "file": "Controllers/LCCC/LCPH/Clearance-Delivery.md"
+    },
+    "/controllers/lccc/lcph/software": {
+      "file": "Controllers/LCCC/LCPH/Software.md"
+    },
+    "/controllers/lccc/lcph/sops": {
+      "file": "Controllers/LCCC/LCPH/SOPs.md"
+    },
+    "/controllers/lccc/lcra/briefing": {
+      "file": "Controllers/LCCC/LCRA/Briefing.md"
+    },
+    "/controllers/lccc/lcra/clearance-delivery": {
+      "file": "Controllers/LCCC/LCRA/Clearance-Delivery.md"
+    },
+    "/controllers/lccc/lcra/software": {
+      "file": "Controllers/LCCC/LCRA/Software.md"
+    },
+    "/controllers/lccc/lcra/sops": {
+      "file": "Controllers/LCCC/LCRA/SOPs.md"
+    },
+    "/controllers/lppc/enroute/briefing": {
+      "file": "Controllers/LPPC/Enroute/Briefing.md"
+    },
+    "/controllers/lppc/lpma/briefing": {
+      "file": "Controllers/LPPC/LPMA/Briefing.md"
+    },
+    "/controllers/lppc/lpma/clearance-delivery": {
+      "file": "Controllers/LPPC/LPMA/Clearance-Delivery.md"
+    },
+    "/controllers/lppc/lpma/software": {
+      "file": "Controllers/LPPC/LPMA/Software.md"
+    },
+    "/controllers/lppc/lpma/sops": {
+      "file": "Controllers/LPPC/LPMA/SOPs.md"
+    },
+    "/controllers/mdcs/enroute/briefing": {
+      "file": "Controllers/MDCS/Enroute/Briefing.md"
+    },
+    "/controllers/mdcs/mdab/briefing": {
+      "file": "Controllers/MDCS/MDAB/Briefing.md"
+    },
+    "/controllers/mdcs/mdab/clearance-delivery": {
+      "file": "Controllers/MDCS/MDAB/Clearance-Delivery.md"
+    },
+    "/controllers/mdcs/mdab/software": {
+      "file": "Controllers/MDCS/MDAB/Software.md"
+    },
+    "/controllers/mdcs/mdab/sops": {
+      "file": "Controllers/MDCS/MDAB/SOPs.md"
+    },
+    "/controllers/mdcs/mdcr/briefing": {
+      "file": "Controllers/MDCS/MDCR/Briefing.md"
+    },
+    "/controllers/mdcs/mdcr/clearance-delivery": {
+      "file": "Controllers/MDCS/MDCR/Clearance-Delivery.md"
+    },
+    "/controllers/mdcs/mdcr/software": {
+      "file": "Controllers/MDCS/MDCR/Software.md"
+    },
+    "/controllers/mdcs/mdcr/sops": {
+      "file": "Controllers/MDCS/MDCR/SOPs.md"
+    },
+    "/controllers/mdcs/mdpc/briefing": {
+      "file": "Controllers/MDCS/MDPC/Briefing.md"
+    },
+    "/controllers/mdcs/mdpc/clearance-delivery": {
+      "file": "Controllers/MDCS/MDPC/Clearance-Delivery.md"
+    },
+    "/controllers/mdcs/mdpc/software": {
+      "file": "Controllers/MDCS/MDPC/Software.md"
+    },
+    "/controllers/mdcs/mdpc/sops": {
+      "file": "Controllers/MDCS/MDPC/SOPs.md"
+    },
+    "/controllers/mdcs/mdst/briefing": {
+      "file": "Controllers/MDCS/MDST/Briefing.md"
+    },
+    "/controllers/mdcs/mdst/clearance-delivery": {
+      "file": "Controllers/MDCS/MDST/Clearance-Delivery.md"
+    },
+    "/controllers/mdcs/mdst/software": {
+      "file": "Controllers/MDCS/MDST/Software.md"
+    },
+    "/controllers/mdcs/mdst/sops": {
+      "file": "Controllers/MDCS/MDST/SOPs.md"
+    },
+    "/controllers/mteg/enroute/briefing": {
+      "file": "Controllers/MTEG/Enroute/Briefing.md"
+    },
+    "/controllers/mteg/mtca/briefing": {
+      "file": "Controllers/MTEG/MTCA/Briefing.md"
+    },
+    "/controllers/mteg/mtca/clearance-delivery": {
+      "file": "Controllers/MTEG/MTCA/Clearance-Delivery.md"
+    },
+    "/controllers/mteg/mtca/software": {
+      "file": "Controllers/MTEG/MTCA/Software.md"
+    },
+    "/controllers/mteg/mtca/sops": {
+      "file": "Controllers/MTEG/MTCA/SOPs.md"
+    },
+    "/controllers/obbb/enroute/briefing": {
+      "file": "Controllers/OBBB/Enroute/Briefing.md"
+    },
+    "/controllers/paza/enroute/briefing": {
+      "file": "Controllers/PAZA/Enroute/Briefing.md"
+    },
+    "/controllers/paza/pafa/briefing": {
+      "file": "Controllers/PAZA/PAFA/Briefing.md"
+    },
+    "/controllers/paza/pafa/clearance-delivery": {
+      "file": "Controllers/PAZA/PAFA/Clearance-Delivery.md"
+    },
+    "/controllers/paza/pafa/software": {
+      "file": "Controllers/PAZA/PAFA/Software.md"
+    },
+    "/controllers/paza/pafa/sops": {
+      "file": "Controllers/PAZA/PAFA/SOPs.md"
     },
     "/demo": {
       "file": "Demo.md"
     },
-    "/general/ratings/[c1]-trainee-controller": {
-      "file": "General/Ratings/[C1]-Trainee-Controller.md"
+    "/knowledgebase/general/ratings/[c1]-trainee-controller": {
+      "file": "Knowledgebase/General/Ratings/[C1]-Trainee-Controller.md"
     },
-    "/general/ratings/[c2]-tower-controller": {
-      "file": "General/Ratings/[C2]-Tower-Controller.md"
+    "/knowledgebase/general/ratings/[c2]-tower-controller": {
+      "file": "Knowledgebase/General/Ratings/[C2]-Tower-Controller.md"
     },
-    "/general/ratings/[c3]-approach-controller": {
-      "file": "General/Ratings/[C3]-Approach-Controller.md"
+    "/knowledgebase/general/ratings/[c3]-approach-controller": {
+      "file": "Knowledgebase/General/Ratings/[C3]-Approach-Controller.md"
     },
-    "/general/ratings/[sc]-senior-controller": {
-      "file": "General/Ratings/[SC]-Senior-Controller.md"
+    "/knowledgebase/general/ratings/[sc]-senior-controller": {
+      "file": "Knowledgebase/General/Ratings/[SC]-Senior-Controller.md"
     },
-    "/general/roles/leadership": {
-      "file": "General/Roles/Leadership.md"
+    "/knowledgebase/general/roles/leadership": {
+      "file": "Knowledgebase/General/Roles/Leadership.md"
     },
-    "/general/roles/operations": {
-      "file": "General/Roles/Operations.md"
+    "/knowledgebase/general/roles/operations": {
+      "file": "Knowledgebase/General/Roles/Operations.md"
     },
-    "/pilots/egkk/briefing": {
-      "file": "Pilots/EGKK/Briefing.md"
+    "/pilots/eggx/enroute/briefing": {
+      "file": "Pilots/EGGX/Enroute/Briefing.md"
     },
-    "/pilots/egkk/sops": {
-      "file": "Pilots/EGKK/SOPs.md"
+    "/pilots/egpx/briefing": {
+      "file": "Pilots/EGPX/Briefing.md"
     },
-    "/pilots/mdpc/briefing": {
-      "file": "Pilots/MDPC/Briefing.md"
+    "/pilots/egpx/demo": {
+      "file": "Pilots/EGPX/Demo.md"
     },
-    "/pilots/mdpc/sops": {
-      "file": "Pilots/MDPC/SOPs.md"
+    "/pilots/egpx/enroute/briefing": {
+      "file": "Pilots/EGPX/Enroute/Briefing.md"
+    },
+    "/pilots/egpx/sops": {
+      "file": "Pilots/EGPX/SOPs.md"
+    },
+    "/pilots/egtt/egff/briefing": {
+      "file": "Pilots/EGTT/EGFF/Briefing.md"
+    },
+    "/pilots/egtt/egff/sops": {
+      "file": "Pilots/EGTT/EGFF/SOPs.md"
+    },
+    "/pilots/egtt/egkk/briefing": {
+      "file": "Pilots/EGTT/EGKK/Briefing.md"
+    },
+    "/pilots/egtt/egkk/sops": {
+      "file": "Pilots/EGTT/EGKK/SOPs.md"
+    },
+    "/pilots/egtt/eglc/briefing": {
+      "file": "Pilots/EGTT/EGLC/Briefing.md"
+    },
+    "/pilots/egtt/eglc/sops": {
+      "file": "Pilots/EGTT/EGLC/SOPs.md"
+    },
+    "/pilots/egtt/enroute/briefing": {
+      "file": "Pilots/EGTT/Enroute/Briefing.md"
+    },
+    "/pilots/ehaa/enroute/briefing": {
+      "file": "Pilots/EHAA/Enroute/Briefing.md"
+    },
+    "/pilots/eisn/enroute/briefing": {
+      "file": "Pilots/EISN/Enroute/Briefing.md"
+    },
+    "/pilots/ekdk/enroute/briefing": {
+      "file": "Pilots/EKDK/Enroute/Briefing.md"
+    },
+    "/pilots/kzak/enroute/briefing": {
+      "file": "Pilots/KZAK/Enroute/Briefing.md"
+    },
+    "/pilots/lccc/enroute/briefing": {
+      "file": "Pilots/LCCC/Enroute/Briefing.md"
+    },
+    "/pilots/lccc/lclk/briefing": {
+      "file": "Pilots/LCCC/LCLK/Briefing.md"
+    },
+    "/pilots/lccc/lclk/sops": {
+      "file": "Pilots/LCCC/LCLK/SOPs.md"
+    },
+    "/pilots/lccc/lcph/briefing": {
+      "file": "Pilots/LCCC/LCPH/Briefing.md"
+    },
+    "/pilots/lccc/lcph/sops": {
+      "file": "Pilots/LCCC/LCPH/SOPs.md"
+    },
+    "/pilots/lccc/lcra/briefing": {
+      "file": "Pilots/LCCC/LCRA/Briefing.md"
+    },
+    "/pilots/lccc/lcra/sops": {
+      "file": "Pilots/LCCC/LCRA/SOPs.md"
+    },
+    "/pilots/lppc/enroute/briefing": {
+      "file": "Pilots/LPPC/Enroute/Briefing.md"
+    },
+    "/pilots/lppc/lpma/briefing": {
+      "file": "Pilots/LPPC/LPMA/Briefing.md"
+    },
+    "/pilots/lppc/lpma/sops": {
+      "file": "Pilots/LPPC/LPMA/SOPs.md"
+    },
+    "/pilots/mdcs/enroute/briefing": {
+      "file": "Pilots/MDCS/Enroute/Briefing.md"
+    },
+    "/pilots/mdcs/mdab/briefing": {
+      "file": "Pilots/MDCS/MDAB/Briefing.md"
+    },
+    "/pilots/mdcs/mdab/sops": {
+      "file": "Pilots/MDCS/MDAB/SOPs.md"
+    },
+    "/pilots/mdcs/mdcr/briefing": {
+      "file": "Pilots/MDCS/MDCR/Briefing.md"
+    },
+    "/pilots/mdcs/mdcr/sops": {
+      "file": "Pilots/MDCS/MDCR/SOPs.md"
+    },
+    "/pilots/mdcs/mdpc/briefing": {
+      "file": "Pilots/MDCS/MDPC/Briefing.md"
+    },
+    "/pilots/mdcs/mdpc/sops": {
+      "file": "Pilots/MDCS/MDPC/SOPs.md"
+    },
+    "/pilots/mdcs/mdst/briefing": {
+      "file": "Pilots/MDCS/MDST/Briefing.md"
+    },
+    "/pilots/mdcs/mdst/sops": {
+      "file": "Pilots/MDCS/MDST/SOPs.md"
+    },
+    "/pilots/mteg/enroute/briefing": {
+      "file": "Pilots/MTEG/Enroute/Briefing.md"
+    },
+    "/pilots/mteg/mtca/briefing": {
+      "file": "Pilots/MTEG/MTCA/Briefing.md"
+    },
+    "/pilots/mteg/mtca/sops": {
+      "file": "Pilots/MTEG/MTCA/SOPs.md"
+    },
+    "/pilots/obbb/enroute/briefing": {
+      "file": "Pilots/OBBB/Enroute/Briefing.md"
+    },
+    "/pilots/paza/enroute/briefing": {
+      "file": "Pilots/PAZA/Enroute/Briefing.md"
+    },
+    "/pilots/paza/pafa/briefing": {
+      "file": "Pilots/PAZA/PAFA/Briefing.md"
+    },
+    "/pilots/paza/pafa/sops": {
+      "file": "Pilots/PAZA/PAFA/SOPs.md"
     },
     "/policies/contributing-policy": {
       "file": "Policies/Contributing-Policy.md"
