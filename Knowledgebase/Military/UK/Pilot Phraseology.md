@@ -9,7 +9,9 @@
 ### Phraseology
 
 **Pilot:**  
-"(STATION), (CALLSIGN), is a (AIRCRAFT TYPE), (NUMBER) POB, information (CODE), on (STAND), request start."
+"(STATION), (CALLSIGN), bay (NUMBER), request start, (NUMBER) POB."
+
+> "Akrotiri Ground, RRR123, bay 1, request start, 2 POB."
 
 **ATC:**  
 "(CALLSIGN), (STATION), (INFORMATION CODE) correct/incorrect, start."
