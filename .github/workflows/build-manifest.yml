@@ -1,7 +1,7 @@
 name: Build Manifest
 
 on:
-  pull_request_target:
+  pull_request:
     branches: [main]
     types: [opened, synchronize, reopened, ready_for_review]
     paths:
@@ -22,7 +22,6 @@ jobs:
       - name: Check out pull request branch
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Set up Node.js
