@@ -14,7 +14,9 @@
 > "Akrotiri Ground, RRR123, bay 1, request start, 2 POB."
 
 **ATC:**  
-"(CALLSIGN), (STATION), (INFORMATION CODE) correct/incorrect, start."
+"(CALLSIGN), (STATION), start, runway (RUNWAY) in use, QFE (NUMBER), outside air (AIR TEMP) degrees."
+
+> "RRR123, Akrotiri Ground, start, runway 28 in use, QFE 1001, outside air +28 degrees."
 
 **Pilot:**  
 "Start, runway (RUNWAY), QFE (NUMBER), (CALLSIGN)"
