@@ -1,10 +1,8 @@
 # RAF Akrotiri (LCRA) — Departure SOPs
 
-**Source:** Local instruction (verbatim) + IRL-standard military/civil handoff procedure, adapted for PFATC use.
-
 ---
 
-## 1. Handoff Criteria (Local Instruction — Verbatim)
+## 1. Handoff Criteria
 
 > RAF Akrotiri departures are passed as soon as possible at 5000 feet, or after clearing the final waypoint of the SID. And are clear of traffic.
 
@@ -16,7 +14,7 @@ This means a departure may be transferred from Akrotiri Tower/Approach to the ne
 
 ---
 
-## 2. Standard Departure Sequence (IRL-Based Procedure)
+## 2. Standard Departure Sequence
 
 ### 2.1 Pre-Departure
 - Controller confirms SID/route validity, initial climb altitude, and squawk before releasing for departure (see Clearance Delivery guide).
