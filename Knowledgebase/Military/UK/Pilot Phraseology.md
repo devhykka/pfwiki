@@ -33,7 +33,12 @@
 ### Phraseology
 
 **Pilot:**  
-"(CALLSIGN), request taxi."
+"(CALLSIGN), request taxi, information (LETTER), from bay (NUMBER), (NUMBER) POB."
+
+> "RRR123, request taxi, information A, from bay 1, 2 POB."
+
+!!! info Note
+  POB does not need to be stated if already previously passed on.
 
 **ATC:**  
 "(CALLSIGN), taxi via (TAXIWAY), hold at (HOLDING POINT), runway (NUMBER)."
