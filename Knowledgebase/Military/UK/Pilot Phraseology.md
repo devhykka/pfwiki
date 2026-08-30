@@ -17,7 +17,9 @@
 "(CALLSIGN), (STATION), (INFORMATION CODE) correct/incorrect, start."
 
 **Pilot:**  
-"Start, (CALLSIGN)."
+"Start, runway (RUNWAY), QFE (NUMBER), (CALLSIGN)"
+
+> "Start, runway 28, QFE 1001, RRR123"
 
 !!! info Definition
     POB = Persons on Board
