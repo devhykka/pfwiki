@@ -41,7 +41,13 @@
   POB does not need to be stated if already previously passed on.
 
 **ATC:**  
-"(CALLSIGN), taxi via (TAXIWAY), hold at (HOLDING POINT), runway (NUMBER)."
+
+"(CALLSIGN), (STATION), runway (RUNWAY) in use, QFE (NUMBER), taxi to (CLEARANCE LIMIT), runway (RUNWAY) via (TAXIWAY)."
+
+> "RRR123, Akrotiri Ground, runway 28 in use, QFE (NUMBER), taxi to 28 hold, runway 28 via Y."
+
+!!! info Note
+  Runway and QFE does not need to be passed on if already previously passed on.
 
 **Pilot:**  
 "Taxi (READBACK), (CALLSIGN)."
