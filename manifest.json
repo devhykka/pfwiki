@@ -5,6 +5,7 @@
       "/about",
       "/controllers",
       "/demo",
+      "/images",
       "/knowledgebase",
       "/pilots",
       "/policies",
@@ -75,6 +76,7 @@
       "children": [
         "/controllers/egtt/egkk/briefing",
         "/controllers/egtt/egkk/clearance-delivery",
+        "/controllers/egtt/egkk/ground",
         "/controllers/egtt/egkk/software",
         "/controllers/egtt/egkk/sops"
       ]
@@ -82,9 +84,10 @@
     "/controllers/egtt/eglc": {
       "children": [
         "/controllers/egtt/eglc/briefing",
-        "/controllers/egtt/eglc/clearance-delivery",
+        "/controllers/egtt/eglc/ground",
         "/controllers/egtt/eglc/software",
-        "/controllers/egtt/eglc/sops"
+        "/controllers/egtt/eglc/sops",
+        "/controllers/egtt/eglc/tower"
       ]
     },
     "/controllers/egtt/enroute": {
@@ -306,6 +309,9 @@
         "/controllers/paza/pafa/sops"
       ]
     },
+    "/images": {
+      "children": []
+    },
     "/knowledgebase": {
       "children": [
         "/knowledgebase/general",
@@ -315,8 +321,14 @@
     "/knowledgebase/general": {
       "dataFile": "Knowledgebase/General/.data.md",
       "children": [
+        "/knowledgebase/general/controllers",
         "/knowledgebase/general/ratings",
         "/knowledgebase/general/roles"
+      ]
+    },
+    "/knowledgebase/general/controllers": {
+      "children": [
+        "/knowledgebase/general/controllers/wake-turbulence-separation"
       ]
     },
     "/knowledgebase/general/ratings": {
@@ -338,7 +350,7 @@
     "/knowledgebase/vfr": {
       "dataFile": "Knowledgebase/VFR/.data.md",
       "children": [
-        "/knowledgebase/vfr/pattern-work"
+        "/knowledgebase/vfr/traffic-circuits"
       ]
     },
     "/pilots": {
@@ -647,6 +659,9 @@
     "/controllers/egtt/egkk/clearance-delivery": {
       "file": "Controllers/EGTT/EGKK/Clearance-Delivery.md"
     },
+    "/controllers/egtt/egkk/ground": {
+      "file": "Controllers/EGTT/EGKK/Ground.md"
+    },
     "/controllers/egtt/egkk/software": {
       "file": "Controllers/EGTT/EGKK/Software.md"
     },
@@ -656,14 +671,17 @@
     "/controllers/egtt/eglc/briefing": {
       "file": "Controllers/EGTT/EGLC/Briefing.md"
     },
-    "/controllers/egtt/eglc/clearance-delivery": {
-      "file": "Controllers/EGTT/EGLC/Clearance-Delivery.md"
+    "/controllers/egtt/eglc/ground": {
+      "file": "Controllers/EGTT/EGLC/Ground.md"
     },
     "/controllers/egtt/eglc/software": {
       "file": "Controllers/EGTT/EGLC/Software.md"
     },
     "/controllers/egtt/eglc/sops": {
       "file": "Controllers/EGTT/EGLC/SOPs.md"
+    },
+    "/controllers/egtt/eglc/tower": {
+      "file": "Controllers/EGTT/EGLC/Tower.md"
     },
     "/controllers/egtt/enroute/briefing": {
       "file": "Controllers/EGTT/Enroute/Briefing.md"
@@ -830,6 +848,9 @@
     "/demo": {
       "file": "Demo.md"
     },
+    "/knowledgebase/general/controllers/wake-turbulence-separation": {
+      "file": "Knowledgebase/General/Controllers/Wake-Turbulence-Separation.md"
+    },
     "/knowledgebase/general/ratings/[c1]-trainee-controller": {
       "file": "Knowledgebase/General/Ratings/[C1]-Trainee-Controller.md"
     },
@@ -848,8 +869,8 @@
     "/knowledgebase/general/roles/operations": {
       "file": "Knowledgebase/General/Roles/Operations.md"
     },
-    "/knowledgebase/vfr/pattern-work": {
-      "file": "Knowledgebase/VFR/Pattern-Work.md"
+    "/knowledgebase/vfr/traffic-circuits": {
+      "file": "Knowledgebase/VFR/Traffic-Circuits.md"
     },
     "/pilots/eggx/enroute/briefing": {
       "file": "Pilots/EGGX/Enroute/Briefing.md"

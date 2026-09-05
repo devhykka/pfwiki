@@ -35,7 +35,7 @@ This is a line break:
 
 **Bold**
 
-**Underline**
+__Underline__
 
 _Italic_
 
