@@ -6,7 +6,7 @@
 |---|---|
 | ICAO Code | PAFA |
 | Elevation | 439 ft |
-| Transition Altitude | 18000 ft |
+| Transition Altitude | 12000 ft |
 
 ---
 
