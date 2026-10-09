@@ -16,7 +16,7 @@ This document prescribes the procedures that may be followed for providing air t
 | -------- | -------- | ---------- | --------- | ---------- | 
 | Clearance Delivery | FAI_DEL | Fairbanks Clearance Delivery | 127.6 | N/A
 | Ground Control | FAI_GND | Fairbanks Ground | 121.9 | 1T
-| Local Control | FAI_TWR | Fairbanks Tower | 118.3 | 1T
+| Tower | FAI_TWR | Fairbanks Tower | 118.3 | 1T
 ---
 **FAI TRACON**
 | Sector | Callsign | Frequency | Identifier | Combined Sector | 
@@ -100,7 +100,7 @@ Aircraft should be sequenced to depart in the following order:
 - Aircraft on the pond shall be switched to Fairbanks Tower
 
 ---
-### Local Control
+### Tower
 **Procedures**
 
 **Releases**
@@ -130,7 +130,7 @@ b. VFR aircraft receiving TRSA services may be turned “on course” at the con
 a. Class DELTA
 b. The tower owns 2,900' and below within a 5 mile radius of the airport
 
-![Airspace](/images/FAI-airspace.png)
+_[Airspace Image Coming Soon]_
 
 ---
 **Runway Selection**
@@ -150,4 +150,4 @@ Select the departure heading based on the table, only if the aircraft is not on 
 
 ---
 Last Modified
-_This page was last edited on 2 September 2026, at 11:09._
+_This page was last edited on 9 October 2026, at 9:30._

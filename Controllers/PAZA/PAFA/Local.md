@@ -1,8 +1,8 @@
-# Local Control Responsibilities
+# Tower Responsibilities
 
-The Local Control controller's **primary responsibility is to control operations on the active runway(s) and aircraft in immediate vicinity of the airport.** Local Control is responsible for authorizing aircraft to take off, land, enter, cross, or otherwise use an active runway, while maintaining the required separation between aircraft and coordinating with other controllers as necessary.
+The Tower controller's **primary responsibility is to control operations on the active runway(s) and aircraft in immediate vicinity of the airport.** Tower is responsible for authorizing aircraft to take off, land, enter, cross, or otherwise use an active runway, while maintaining the required separation between aircraft and coordinating with other controllers as necessary.
 
-# Local Control Phraseology
+# Tower Phraseology
 
 Fairbanks International Airport follows FAA phraseology, though PFATC does not require specific phraseology, so you may use other phraseologies such as CAA and ICAO.
 
@@ -94,7 +94,7 @@ Landing aircraft must receive a landing clearance before landing.
 !!!info Example
     Alaska 123, Fairbanks Tower, cross Runway Two-Zero Right at Alpha.
 
-When Ground Control requests a runway crossing, Local Control must authorize the crossing before Ground issues the instruction to the aircraft.
+When Ground Control requests a runway crossing, Tower must authorize the crossing before Ground issues the instruction to the aircraft.
 
 !!!warning NOTE
     Runway crossings must be explicit. Do not assume that an aircraft is authorized to cross a runway simply because its taxi route continues across it.
@@ -104,7 +104,7 @@ Aircraft require explicit authorization to cross a runway, including inactive or
 
 ### Go-Around / Balked Landing
 
-If an aircraft cannot safely land, Local Control may instruct the aircraft to go around.
+If an aircraft cannot safely land, Tower may instruct the aircraft to go around.
 
 **GO AROUND.**
 !!!info Example
@@ -133,3 +133,7 @@ _or_
 **CLEARED LOW APPROACH.**
 !!!info Example
     Alaska 123, Fairbanks Tower, Runway Two-Zero Right, cleared low approach.
+
+---
+Last Modified
+_This page was last edited on 9 October 2026, at 9:30._

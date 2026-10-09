@@ -37,3 +37,7 @@ There are 3 things to consider when verifying a flightplan.
 2.) Can this aircraft fly this proceedure?
 
 3.) The route contains vaild fixes and proceedures
+
+---
+Last Modified
+_This page was last edited on 9 October 2026, at 9:30._
