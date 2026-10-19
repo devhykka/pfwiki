@@ -1,0 +1,11 @@
+# Project owners
+* @project-flight/maintainers
+
+# Protected files, only to be edited by repository maintainers
+
+/.github/ @project-flight/maintainers
+/Policies/ @project-flight/maintainers
+About.md @project-flight/maintainers
+Demo.md @project-flight/maintainers
+manifest.json @project-flight/maintainers
+Welcome.md @project-flight/maintainers
