@@ -1,7 +1,7 @@
 ---
 title: Wake Turbulence Separation
 description: Make sure you separate aircraft to avoid turbulence and unexpected behaviours.
-author: “bananensammler_”
+author: "bananensammler_"
 ---
 # Wake Turbulence Categories (WTC)
 Before talking about the separation that aircraft should have, we must understand what qualifies an aircraft to be in its respective WTC.
@@ -11,7 +11,7 @@ There are four different categories. However, only three of these categories are
 | ----- | --------- | --------- |
 | Light (L) | MTOW ≤ 7t | C152, P28A |
 | Medium (M) | 7t < MTOW < 136t | A320, B737 |
-| Heavy (H) | MTOW ≥ 136t | A330, B757|
+| Heavy (H) | MTOW ≥ 136t | A330, B777 |
 | Super (J) | --------- | A388, A225 |
 
 !!! info Confused?

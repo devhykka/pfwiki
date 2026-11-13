@@ -10,7 +10,7 @@ Senior Controller candidates must meet the following criteria to be eligible to 
 - Be **handpicked** by an instructor as a competent C3 controller.
 
 To achieve the Senior Controller rating you must:
-- Have completed a sufficient amount of self-study and be knowledgable in all operational aspects.
+- Have completed a sufficient amount of self-study and be knowledgeable in all operational aspects.
 - Have completed the theory examination with an acceptable result.
 - Pass a practical competency examination.
 - Complete a month long endorsement where ability is monitored.

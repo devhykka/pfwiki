@@ -8,5 +8,5 @@ It is recommended to observe rated controllers to gain an understanding of the d
     PFATC follows the [top-down](https://wiki.pfatc.net/knowledgebase/general/top-down) philosophy where controllers connected on a higher position will provide coverage for lower positions if independent controllers are offline. 
 
 To achieve the Trainee Controller rating you must:
-- Have completed a sufficient amount of self-study and be knowledgable in all operational aspects.
+- Have completed a sufficient amount of self-study and be knowledgeable in all operational aspects.
 - Have completed the theory examination with an acceptable result.

@@ -16,7 +16,7 @@ Due to the proximity of Gatwick and its position, coordination with L (London Co
 
 ## Start Clearance and Transfer to Tower
 
-Start clearance should be provided once an aircraft reports ready and current conditions permit. It is best practice to include the stand number of the aircraft being given clearance for other aircrafts' situational awareness.
+Start clearance should be provided once an aircraft reports ready and current conditions permit. It is best practice to include the stand number of the aircraft being given clearance for other aircraft's situational awareness.
 
 An aircraft may be positioned on a stand that requires pushback onto taxiway **tango**. This should be coordinated with tower with the aircraft told to hold position and start only.
 

@@ -2,7 +2,7 @@
 
 ## Area of Responsibility
 
-The Ground Movement Controllers (GMC) are responsible for the movement of aircraft on the aprons and taxiways except on taxiway Yankee between Y3 and W1. Aircraft should be given pushback when taxiway/holding point congestion permit. GMC operations are able to be split between two controllers (GMC North and GMC South) with the area of responsibility of each controller outlined below (see Figure 1 & Figure 2).
+The Ground Movement Controllers (GMC) are responsible for the movement of aircraft on the aprons and taxiways except on taxiway Yankee between Y3 and W1. Aircraft should be given pushback when taxiway/holding point congestion permits. GMC operations are able to be split between two controllers (GMC North and GMC South) with the area of responsibility of each controller outlined below (see Figure 1 & Figure 2).
 
 ![Gatwick Westerly Diagram](/images/Split-GMC-West.svg) <br>
 _Figure 1: Gatwick Westerly GMC Split_
@@ -12,7 +12,7 @@ _Figure 2: Gatwick Easterly GMC Split_
 
 ## Preferred Taxi Routes
 
-To facilitate the smooth flow of traffic it is recommended to follow these standard taxi routes however they are not mandatory and taxi isntructions should be issued at the discretion of the GMC controller. 
+To facilitate the smooth flow of traffic it is recommended to follow these standard taxi routes however they are not mandatory and taxi instructions should be issued at the discretion of the GMC controller. 
 
 !!! warning Split GMC Operations
     During split GMC operations, aircraft taxiing who do not conform to the preferred taxi routes are to be coordinated to the relevant controller. 

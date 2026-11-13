@@ -1,7 +1,7 @@
 ---
 title: Fairbanks ATCT SOP
 description: Standard operating procedures and proper phraseology for PAFA/FAI
-author: "djmaxthebestt2133 & iceit”
+author: "djmaxthebestt2133 & iceit"
 ---
 # FAI SOP
 _From PFATC Network_
@@ -41,7 +41,7 @@ _Note 1: FAI_E_APP is not to be opened unconditionally without the permission of
 | FAI_W_APP | 125.350 | 1W | 
 | ANC_06_CTR | 132.300 | 06 |
 
-The table above lists the common frequencies used as departure frequeqncy by FAI Clearance Delivery. The first available controller in this list should be handling departures.
+The table above lists the common frequencies used as departure frequency by FAI Clearance Delivery. The first available controller in this list should be handling departures.
 
 ---
 **IFR Departures**
@@ -52,7 +52,7 @@ The table above lists the common frequencies used as departure frequeqncy by FAI
 | RDFLG # | 02L/R or 20L/R | 10,000 |
 | GLEEN # | 02L/R or 20L/R | 10,000 |
 
-- The initial altitude for IFR departures is determined based on the table on the right.
+- The initial altitude for IFR departures is determined based on the table above.
 - The appropriate SID shall be assigned based on the direction of travel/route
 - Aircraft conducting practice approaches to FAI shall be assigned no lower than 5,000 ft
 
@@ -87,7 +87,7 @@ FAI is located inside of a class delta surrounded by a TRSA. Optionally, VFR tra
 _VFR with TRSA Services:_ 
 N123SP, Fairbanks Clearance Delivery, TRSA departure which is fly runway heading until further advised, departure frequency 125 point 35, squawk ...
 
-_VFR with TRSA Services:_ 
+_VFR with Flight Following:_ 
 N123SP, Fairbanks Clearance Delivery, departure frequency 125 point 35, squawk ....
 
 _VFR without FF/Pattern Work:_
@@ -112,14 +112,14 @@ Aircraft should be sequenced to depart in the following order:
 Releases from Fairbanks are automatic **except for** the Red Flag and Drill departure procedures, unless Fairbanks TRACON requests individual releases
 
 **Separation**
-The standard departure separation technique to be used is anticipated radar separation. When wake turbulence is a factor, use timed separation in accordance with [FAA Order 7110.65PB](https://www.faa.gov/documentLibrary/media/Order/Final_Wake_Recat_Order.pdf)
+The standard departure separation technique to be used is anticipated radar separation. When wake turbulence is a factor, use timed separation in accordance with [FAA Order JO 7110.659](https://www.faa.gov/documentLibrary/media/Order/Final_Wake_Recat_Order.pdf)
 
 **Radar**
 This tower uses a DBRITE radar only and is not certified for any approach control services. By agreeing with Fairbanks TRACON, this tower will NOT radar identify departing IFR aircraft and will instruct a departure to contact departure control once the aircraft appears to be clear of any traffic. It is imperative that tower controllers observe departing traffic turning towards the assigned heading before handing off. VFR aircraft can and must be radar identified to receive flight following within the tower's airspace, otherwise it is not necessary.
 
 **Missed Approach Procedures**
-a. Missed approaches or go-arounds must fly runway heading or track the localizer until reaching the departure end of the runway, then be issued a heading, unless the controller determines thatit would be advantageous to delay or initiate a turn early.
-b. The table below indicates the heading and altitute that needs to be assigned to a missed approach or go around prior to release to TRACON frequency.
+a. Missed approaches or go-arounds must fly runway heading or track the localizer until reaching the departure end of the runway, then be issued a heading, unless the controller determines that it would be advantageous to delay or initiate a turn early.
+b. The table below indicates the heading and altitude that needs to be assigned to a missed approach or go around prior to release to TRACON frequency.
 | Runway | Heading | Altitude | 
 | -------- | -------- | ---------- | 
 | 2L/R | 035 | 5,000 | 

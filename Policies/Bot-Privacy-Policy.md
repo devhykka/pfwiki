@@ -73,7 +73,7 @@ PFATC takes reasonable technical and organisational measures to protect the info
 
 ## 7. Sharing of Information
 
-PFATC does **not sell, rent, or otherwise share the information collected by the Bot with organisations or individuals outside of PFATC for their own purposes.
+PFATC does **not** sell, rent, or otherwise share the information collected by the Bot with organisations or individuals outside of PFATC for their own purposes.
 
 Information may be accessed by authorised PFATC personnel where necessary to operate, maintain, secure, or administer the Bot and its associated systems.
 
@@ -124,7 +124,7 @@ PFATC may update this Privacy Policy from time to time to reflect changes to the
 
 The latest version of this Privacy Policy will be made available at:
 
-**https://wiki.pfatc.net/policies/privacy-policy**
+**https://wiki.pfatc.net/policies/bot-privacy-policy**
 
 ## 12. Contact
 
@@ -134,6 +134,6 @@ If you have questions about this Privacy Policy or how PFATC processes informati
 
 **Contact:** via Discord Ticket
 
-**Privacy Policy:** https://wiki.pfatc.net/policies/bot-privacy-policy/
+**Privacy Policy:** https://wiki.pfatc.net/policies/bot-privacy-policy
 
 If you are unhappy with how PFATC handles your personal information, you may also have the right to complain to the relevant data protection authority. For more, please search "my relevant data protection authority".
