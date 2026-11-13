@@ -305,6 +305,8 @@
       "children": [
         "/controllers/paza/pafa/briefing",
         "/controllers/paza/pafa/clearance-delivery",
+        "/controllers/paza/pafa/ground",
+        "/controllers/paza/pafa/local",
         "/controllers/paza/pafa/software",
         "/controllers/paza/pafa/sops"
       ]
@@ -838,6 +840,12 @@
     },
     "/controllers/paza/pafa/clearance-delivery": {
       "file": "Controllers/PAZA/PAFA/Clearance-Delivery.md"
+    },
+    "/controllers/paza/pafa/ground": {
+      "file": "Controllers/PAZA/PAFA/Ground.md"
+    },
+    "/controllers/paza/pafa/local": {
+      "file": "Controllers/PAZA/PAFA/Local.md"
     },
     "/controllers/paza/pafa/software": {
       "file": "Controllers/PAZA/PAFA/Software.md"
