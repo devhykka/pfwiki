@@ -7,9 +7,21 @@ on:
     paths:
       - "**/*.md"
       - "scripts/build-manifest.mjs"
+  push:
+    branches: [main]
+    paths:
+      - "**/*.md"
+      - "scripts/build-manifest.mjs"
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
+  # On pull requests: make sure the manifest still builds and report what will change.
+  # Does not fail on a stale manifest, as it is regenerated automatically after merge.
   check-manifest:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -20,13 +32,47 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Rebuild manifest
+      - name: Build manifest
         run: node scripts/build-manifest.mjs
 
-      - name: Fail if manifest is out of date
+      - name: Report manifest changes
         run: |
-          if ! git diff --quiet manifest.json; then
-            echo "::error::manifest.json is out of date. Run 'node scripts/build-manifest.mjs' locally and commit the result."
-            git diff manifest.json
-            exit 1
+          if git diff --quiet manifest.json; then
+            echo "manifest.json is up to date."
+          else
+            echo "::notice::manifest.json will be regenerated automatically when this PR is merged."
+            git diff --stat manifest.json
           fi
+
+  # On main: regenerate manifest.json and commit it if it changed.
+  update-manifest:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: update-manifest
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build manifest
+        run: node scripts/build-manifest.mjs
+
+      - name: Commit manifest if changed
+        run: |
+          if git diff --quiet manifest.json; then
+            echo "manifest.json is up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git commit -m "Update manifest.json"
+          git push origin HEAD:main

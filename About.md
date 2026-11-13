@@ -10,7 +10,7 @@ When updating this wiki:
 2. Keep naming and folder placement consistent with the existing structure.
 3. Open a pull request for review.
 
-`manifest.json` is generated automatically on pull requests, so the navigation structure stays aligned with the repository contents.
+`manifest.json` is generated automatically after a pull request is merged, so the navigation structure stays aligned with the repository contents. Do not edit it by hand.
 
 ## Scope
 
