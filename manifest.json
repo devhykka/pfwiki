@@ -184,6 +184,7 @@
       ]
     },
     "/controllers/lppc": {
+      "dataFile": "Controllers/LPPC/.data.md",
       "children": [
         "/controllers/lppc/enroute",
         "/controllers/lppc/lpma"
@@ -196,7 +197,6 @@
       ]
     },
     "/controllers/lppc/lpma": {
-      "dataFile": "Controllers/LPPC/LPMA/.data.md",
       "children": [
         "/controllers/lppc/lpma/briefing",
         "/controllers/lppc/lpma/clearance-delivery",
@@ -256,6 +256,7 @@
       ]
     },
     "/controllers/mteg": {
+      "dataFile": "Controllers/MTEG/.data.md",
       "children": [
         "/controllers/mteg/enroute",
         "/controllers/mteg/mtca"
@@ -268,7 +269,6 @@
       ]
     },
     "/controllers/mteg/mtca": {
-      "dataFile": "Controllers/MTEG/MTCA/.data.md",
       "children": [
         "/controllers/mteg/mtca/briefing",
         "/controllers/mteg/mtca/clearance-delivery",
@@ -289,6 +289,7 @@
       ]
     },
     "/controllers/paza": {
+      "dataFile": "Controllers/PAZA/.data.md",
       "children": [
         "/controllers/paza/enroute",
         "/controllers/paza/pafa"
@@ -301,7 +302,6 @@
       ]
     },
     "/controllers/paza/pafa": {
-      "dataFile": "Controllers/PAZA/PAFA/.data.md",
       "children": [
         "/controllers/paza/pafa/briefing",
         "/controllers/paza/pafa/clearance-delivery",
@@ -515,6 +515,7 @@
       ]
     },
     "/pilots/lppc": {
+      "dataFile": "Pilots/LPPC/.data.md",
       "children": [
         "/pilots/lppc/enroute",
         "/pilots/lppc/lpma"
@@ -527,7 +528,6 @@
       ]
     },
     "/pilots/lppc/lpma": {
-      "dataFile": "Pilots/LPPC/LPMA/.data.md",
       "children": [
         "/pilots/lppc/lpma/briefing",
         "/pilots/lppc/lpma/sops"
@@ -574,6 +574,7 @@
       ]
     },
     "/pilots/mteg": {
+      "dataFile": "Pilots/MTEG/.data.md",
       "children": [
         "/pilots/mteg/enroute",
         "/pilots/mteg/mtca"
@@ -586,7 +587,6 @@
       ]
     },
     "/pilots/mteg/mtca": {
-      "dataFile": "Pilots/MTEG/MTCA/.data.md",
       "children": [
         "/pilots/mteg/mtca/briefing",
         "/pilots/mteg/mtca/sops"
@@ -605,6 +605,7 @@
       ]
     },
     "/pilots/paza": {
+      "dataFile": "Pilots/PAZA/.data.md",
       "children": [
         "/pilots/paza/enroute",
         "/pilots/paza/pafa"
@@ -617,7 +618,6 @@
       ]
     },
     "/pilots/paza/pafa": {
-      "dataFile": "Pilots/PAZA/PAFA/.data.md",
       "children": [
         "/pilots/paza/pafa/briefing",
         "/pilots/paza/pafa/sops"
