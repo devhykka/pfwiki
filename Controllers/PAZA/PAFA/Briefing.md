@@ -1,7 +1,7 @@
 ---
-title: Fairbanks International Airport Breifing
+title: Fairbanks International Airport Briefing
 description: Useful information about PAFA/FAI
-author: “iceit & djmaxthebestt2133”
+author: "iceit & djmaxthebestt2133"
 ---
 # Fairbanks International Airport (PAFA/FAI) — Airport Briefing
 

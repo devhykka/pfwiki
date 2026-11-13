@@ -2,7 +2,7 @@
 
 ## Taxi Procedures
 
-Unlike other aerodromes, the tower controller is responsibly for taxiing all aircraft. Note the taxi-lane typically operates as a one-way system depending on the runway in use.
+Unlike other aerodromes, the tower controller is responsible for taxiing all aircraft. Note the taxi-lane typically operates as a one-way system depending on the runway in use.
 
 ## Holding Point Assignment
 
@@ -19,7 +19,7 @@ Ground control is assumed to have completed initial coordination however a relea
 | Runway | Missed Approach Procedure |
 | ------ | ------------------------- |
 | 09 | Climb straight ahead to 2000ft. At LCY 5 DME turn left to return to LCY at 2000ft or as directed. |
-| 27 | Climb straight head to 2000ft. At LCY 5 DME turn right to reutnr to LCY at 2000ft or as directed. |
+| 27 | Climb straight ahead to 2000ft. At LCY 5 DME turn right to return to LCY at 2000ft or as directed. |
 
 ## Circuit Procedures
 

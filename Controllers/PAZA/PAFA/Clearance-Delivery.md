@@ -1,7 +1,7 @@
 ---
 title: Clearance Delivery Controller 
 description: Clearance delivery responsibilities and proper phraseology at PAFA/FAI
-author: “iceit & djmaxthebestt2133”
+author: "iceit & djmaxthebestt2133"
 ---
 # Clearance Delivery Responsibilities
 
@@ -14,7 +14,7 @@ The Clearance Delivery controller's role is to **verify flight plans and issue c
 Fairbanks International Airport follows FAA phraseology, though PFATC does not require specific phraseology, so you may use other phraseologies when issuing clearances, such as CAA and ICAO.
 
 !!!warning Note 
-    In all examples the controller identifies themselves each time. In practice you only must do this once to establish two radio communication.
+    In all examples the controller identifies themselves each time. In practice you only must do this once to establish two-way radio communication.
 
 
 FAA follows the CRAFT format when issuing clearances.
@@ -39,9 +39,9 @@ There are 3 things to consider when verifying a flightplan.
 
 1.) Requested CRZ FL is valid for ?[direction of flight](Direction of flight is either East or West from the departure airport to the arrival airport. If the destination airport is to the west of the departure airport, the CRZ should be even; if it is east, it should be odd. This rule applies until the CRZ is past FL410 (out of RVSM airspace), after which, every 2,000 ft the direction switches.)
 
-2.) Can this aircraft fly this proceedure?
+2.) Can this aircraft fly this procedure?
 
-3.) The route contains vaild fixes and proceedures
+3.) The route contains valid fixes and procedures
 
 ---
 Last Modified

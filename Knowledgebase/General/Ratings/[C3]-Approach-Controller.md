@@ -10,6 +10,6 @@ The Approach Controller rating builds on the foundations of all previous ratings
 > The Approach Controller rating is the first to introduce the requirement of a practical competency examination where candidates are placed onto the network with an instructor where their abilities will be assessed before being given the rating. 
 
 To achieve the Approach Controller rating you must:
-- Have completed a sufficient amount of self-study and be knowledgable in all operational aspects.
+- Have completed a sufficient amount of self-study and be knowledgeable in all operational aspects.
 - Have completed the theory examination with an acceptable result.
 - Pass a practical competency examination.

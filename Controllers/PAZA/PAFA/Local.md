@@ -1,7 +1,7 @@
 ---
 title: Tower Controller
 description: Tower responsibilities and proper phraseology at PAFA/FAI
-author: “iceit”
+author: "iceit"
 ---
 # Tower Responsibilities
 
@@ -12,7 +12,7 @@ The Tower controller's **primary responsibility is to control operations on the 
 Fairbanks International Airport follows FAA phraseology, though PFATC does not require specific phraseology, so you may use other phraseologies such as CAA and ICAO.
 
 !!!warning Note 
-    In all examples the controller identifies themselves each time. In practice you only must do this once to establish two radio communication.
+    In all examples the controller identifies themselves each time. In practice you only must do this once to establish two-way radio communication.
 
 ### Takeoff Clearance
 

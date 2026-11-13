@@ -1,7 +1,7 @@
 ---
 title: Ground Controller
 description: Ground control responsibilities and proper phraseology at PAFA/FAI
-author: “iceit"
+author: "iceit"
 ---
 # Ground Responsibilities
 The Ground controller's primary responsibility is to **control aircraft and vehicles on the airport's movement area, excluding the active runway(s).** Ground is responsible for issuing taxi instructions, ensuring aircraft and vehicles maintain proper separation, and coordinating with other controllers as necessary.
@@ -11,14 +11,14 @@ Ground should ensure that aircraft are given appropriate taxi routes and holding
 Ground is also responsible for **coordinating with Clearance Delivery and Local Control** when necessary to ensure aircraft are properly sequenced and that taxi instructions do not conflict with other airport operations.
 
 
-# Ground Phrasology
+# Ground Phraseology
 
 Fairbanks International Airport follows FAA phraseology, though PFATC does not require specific phraseology, so you may use other phraseologies such as CAA and ICAO.
 
 In the United States the ramp is **uncontrolled.**
 
 !!!warning Note 
-    In all examples the controller identifies themselves each time. In practice you only must do this once to establish two radio communication.
+    In all examples the controller identifies themselves each time. In practice you only must do this once to establish two-way radio communication.
 
 ### TAXI to Runway
 
@@ -53,7 +53,7 @@ _or_
     Alaska 123, Fairbanks Ground, taxi to the ramp via Alpha.
 
 !!!warning NOTE
-    The absence of holding instructions authorizes an aircraft cross all taxiways that intersect the taxi route.
+    The absence of holding instructions authorizes an aircraft to cross all taxiways that intersect the taxi route.
 
 ### Holding
 To hold an aircraft where they are:

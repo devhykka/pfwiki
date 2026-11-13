@@ -62,7 +62,7 @@ Taxi should be requested as follows:
 Taxi instructions will include a holding point as the clearance limit, the runway (unless the limit does not occur at a runway), and taxiway routing.
 
 !!! info Taxiways K and J
-    Taxiways K and J are staggered at their corssing with taxiway P. Ensure you do not deviate from your assigned taxi route at these points.
+    Taxiways K and J are staggered at their crossing with taxiway P. Ensure you do not deviate from your assigned taxi route at these points.
 
 ---
 
@@ -80,7 +80,7 @@ Holding points J4, J7 and J8 should be expected during normal runway 08R operati
 
 # Runways
 
-Gatwick features two parallel runways, 26L/08R and 26R/08L, with TORAs of 3,316 m (10,879 ft) and 2,565 m (8,412 ft) respectively. Due to their close proximity, only single-runway operations are used.
+Gatwick features two parallel runways, 26L/08R and 26R/08L, with TORAs of 3,316 m (10,879 ft) and 2,565 m (8,415 ft) respectively. Due to their close proximity, only single-runway operations are used.
 
 !!! info Note
     Runway 26L is the preferential runway used unless the tailwind component for this runway exceeds 5kts.

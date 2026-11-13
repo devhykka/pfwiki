@@ -14,7 +14,7 @@
 Punta Cana utilises the following instrument approaches: RNAV, VOR, and GLS. Where an aircraft is unable to accept an instrument approach, a visual approach should be issued. 
 
 !!! warning Parallel Approaches
-      Due to close proximity and the scale of Project Flight, parallel runway seperation is not applicable and aircraft should be seperated by a minimum of 3 NM diagonally during dual runway operations. 
+      Due to close proximity and the scale of Project Flight, parallel runway separation is not applicable and aircraft should be separated by a minimum of 3 NM diagonally during dual runway operations. 
 
 ## Local Flights
 

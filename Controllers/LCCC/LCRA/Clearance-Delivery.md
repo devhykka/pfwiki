@@ -1,6 +1,6 @@
 # Clearance Delivery (CD) — Controller Guide
 
-**Position:** Combined into Ground at military aerodromes (no standalone Clearence frequency unless locally specified)
+**Position:** Combined into Ground at military aerodromes (no standalone Clearance frequency unless locally specified)
 **Applies to:** IFR and VFR departures requiring a clearance
 **Source:** PFATC Military Phraseology Manual v1.0, Section 1 — Aerodrome Control
 
@@ -15,8 +15,8 @@ Squadron-based aircraft are not required to request start (excluding Akrotiri/Br
 | Role | Phraseology |
 |---|---|
 | Aircraft | Akrotiri Ground, TARTAN59, bay 3, request start, 9 POB. |
-| ATC Unit | TARTAN59, Akrotiri Ground, start, runway 36 in use, QFE 999 hPa, Regional 1001, outside air +15 degrees |
-| Aircraft | Start, runway 36, QFE 999 hPa, Regional 1001, TARTAN59 |
+| ATC Unit | TARTAN59, Akrotiri Ground, start, runway 28 in use, QFE 999 hPa, Regional 1001, outside air +15 degrees |
+| Aircraft | Start, runway 28, QFE 999 hPa, Regional 1001, TARTAN59 |
 
 **Note:** If POB is not given on initial contact, request it at the end of your transmission with *"…Request your POB"*.
 
@@ -30,7 +30,7 @@ Aircraft should request taxi when ready. At military aerodromes, IFR/VFR clearan
 |---|---|
 | Aircraft | TARTAN59 request taxi, information B from bay 3, 9 POB |
 | ATC Unit | TARTAN59, Akrotiri Ground, runway 28 in use, QFE 999 hPa, Regional 1001 taxi to 28 hold, runway 28 via Y |
-| Aircraft | Taxi to 28 hold, runway 28 via Y TARTN59 |
+| Aircraft | Taxi to 28 hold, runway 28 via Y, TARTAN59 |
 
 **Note:** Provide ATIS code and/or QFE if it has changed since the start clearance.
 
